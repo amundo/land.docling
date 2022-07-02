@@ -1,24 +1,7 @@
+@import url(colors.css);
+@import url(fonts.css);
 
-@font-face {
-  font-family: Pecita;
-  src: url("fonts/Pecita.otf") format("opentype");
 
-  font-feature-settings: "calt" on, "liga" on, "rlig" on;
-}
-
-@font-face {
-  font-family: PressStart2P;
-  src: url("fonts/PressStart2P-Regular.ttf") format("truetype");
-}
-
-:root {
-  --bluish: hsl(204.2, 77%, 17.1%);
-  --greenish: hsl(120, 70%, 25.1%);
-  --primary-color: linear-gradient(var(--blueish) 10%, var(--greenish));
-  --rainbow-color:
-    linear-gradient(65deg, rgb(10, 50, 77), hsl(120, 70%, 25.1%));
-  --primary-font-family: Fira Sans;
-}
 
 * {
   box-sizing: border-box;
@@ -26,7 +9,7 @@
 
 body {
   margin: 0;
-  font-family: var(--primary-font-family);
+  font-family: var(--primary-color-font-family);
 }
 
 main {
@@ -36,7 +19,7 @@ main {
 }
 
 body>header {
-  background: var(--rainbow-color);
+  background: var(--header-gradient);
   color: whitesmoke;
   text-shadow: -1px 1px 1px black;
   padding: 0 1em;
@@ -49,13 +32,13 @@ body>header {
 site-nav {
   position: sticky;
   top:0;
-  border-bottom: 2px solid var(--bluish);
-  background: var(--bluish);
+  border-bottom: 2px solid var(--primary-color);
+  background: var(--primary-color);
 }
 
 site-nav ol  {
   margin:0;
-  background: var(--bluish);
+  background: var(--primary-color);
   display: inline;
   list-style: none;
   display:flex;
@@ -73,7 +56,7 @@ site-nav a {
 }
 
 site-nav a:not([href]) {
-  color:var(--bluish);
+  color:var(--primary-color);
   background-color: white;
 }
 
@@ -123,7 +106,7 @@ main>section {
 }
 
 #site-section-outline {
-  border-top: 4px solid var(--primary-color);
+  border-top: 4px solid var(--primary-color-color);
 }
 
 dl {
@@ -204,3 +187,31 @@ dl dt {
   width: 120ch;
 
 }
+
+#lessons time {
+  display: inline-grid;
+  border: 1px solid var(--primary-color);
+  box-shadow: -2px 1px 5px hsla(var(--primary-color));
+  text-transform: uppercase;
+  grid-template-rows: 1fr 1fr;
+  justify-items: center;
+  border-radius: 5px;
+  aspect-ratio: 1/1;
+}
+
+#lessons time abbr {
+  padding:.2em;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  font-weight:bold;
+  color:white;
+  text-decoration: none;
+  background:hsl(0, 66%, 53.9%);
+  margin:0;
+}
+#lessons time .day {
+
+  font-size:x-large;
+  font-weight: bold;
+}
+

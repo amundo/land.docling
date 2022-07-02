@@ -1,0 +1,17 @@
+:root {
+  --primary-hue:  204;
+  --secondary-hue: 120;
+
+  --primary-color:   hsl(var(--primary-hue),   77%, 17%);
+  --secondary-color: hsl(var(--secondary-hue), 70%, 25%);
+
+  --lightblue: hsl(200, 47.7%, 79%);
+  --neon-red: hsl(320.6, 83.3%, 50.6%);
+  --neon-pink: deeppink;
+
+  --primary-color-color: linear-gradient(var(--primary-color) 10%, var(--secondary-color));
+
+  --header-gradient: linear-gradient(65deg, var(--primary-color), var(--secondary-color));
+  
+  --primary-color-font-family: Fira Sans;
+}
