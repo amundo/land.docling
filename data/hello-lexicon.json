@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "title": "‘Hello, World!’ in various languages."
+  },
+  "words": [
+    {
+      "form": "Hallo Welt!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "German"
+      }
+    },
+    {
+      "form": "你好，世界！",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Chinese"
+      }
+    },
+    {
+      "form": "Hello world!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "English"
+      }
+    },
+    {
+      "form": "Olá mundo!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Portuguese"
+      }
+    },
+    {
+      "form": "Hallo wereld!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Dutch"
+      }
+    },
+    {
+      "form": "こんにちは 世界!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Japanese"
+      }
+    },
+    {
+      "form": "Καλημέρα κόσμε!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Greek"
+      }
+    },
+    {
+      "form": "Merhaba dünya!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Turkish"
+      }
+    },
+    {
+      "form": "Hola mundo!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Spanish"
+      }
+    },
+    {
+      "form": "Halo dunia!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Bahasa Indonesia"
+      }
+    },
+    {
+      "form": "Helló Világ!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Hungarian"
+      }
+    },
+    {
+      "form": "Salut le monde!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "French"
+      }
+    },
+    {
+      "form": "Hallo verden!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Norwegian/Bokmal"
+      }
+    },
+    {
+      "form": "Chào thế giới!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Vietnamese"
+      }
+    },
+    {
+      "form": "Hejsan, världen!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Swedish"
+      }
+    },
+    {
+      "form": "Tere, maailm!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Estonian"
+      }
+    },
+    {
+      "form": "안녕, 세상!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Korean"
+      }
+    },
+    {
+      "form": "Saluton Mondo!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Esperanto"
+      }
+    },
+    {
+      "form": "Ahoj svet!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Czech"
+      }
+    },
+    {
+      "form": "Helo byd!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Welsh"
+      }
+    },
+    {
+      "form": "Terve maailma!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Finnish"
+      }
+    },
+    {
+      "form": "Laba ryta, pasauli!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Lithuanian"
+      }
+    },
+    {
+      "form": "Halló heimur!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Icelandic"
+      }
+    },
+    {
+      "form": "Sveika, pasaule!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Latvian"
+      }
+    },
+    {
+      "form": "哈佬世界!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Cantonese"
+      }
+    },
+    {
+      "form": "สวัสดีราคาถูก!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Thai"
+      }
+    },
+    {
+      "form": "Hallo, wrâld",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Frisian"
+      }
+    },
+    {
+      "form": "Ave, Munde!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Latin"
+      }
+    },
+    {
+      "form": "ሠላም ዓለም!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Amharic"
+      }
+    },
+    {
+      "form": "Habari dunia!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Kiswahili"
+      }
+    },
+    {
+      "form": "Ciao mondo!",
+      "gloss": "Hello, World!",
+      "metadata": {
+        "language": "Italian"
+      }
+    }
+  ]
+}

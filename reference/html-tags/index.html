@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Tag Catalog</title>
+
+</head>
+<body>
+  
+
+  <script type="module">
+let r = await fetch('html-tags.json')
+let {tags} = await r.json()
+
+let byCategory = tags
+.reduce((byCategory, tag) => {
+  if(!byCategory[tag.category]){byCategory[tag.category] = []}
+  byCategory[tag.category].push(tag)
+  
+  byCategory[tag.category].sort((a,z) => a.tag < z.tag ? 1 : -1)
+
+  return byCategory
+}, {})
+
+document.body.innerHTML = ``
+ul = Object.entries(byCategory)
+	.forEach(([category, tags]) => {
+  
+  let div = document.createElement('div')
+  div.innerHTML = `<h2>${category}</h2>
+    ${
+  		tags.reduce((ul,tag) => {
+        let li = document.createElement('li')
+        li.innerHTML = `<pre><code></code></pre>`
+        li.querySelector('code').textContent = tag.tag
+        ul.append(li)
+        return ul
+      }, document.createElement("ul")).outerHTML
+    }
+  `
+
+   document.body.insertAdjacentElement('beforeend', div)
+  
+})
+  </script>
+</body>
+</html>

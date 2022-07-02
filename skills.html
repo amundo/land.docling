@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skills - docling.land</title>
+  <link rel="stylesheet" href="css/land.css">
+</head>
+
+<body>
+  <header>
+    <h1>
+      <a href="land.html">
+        <span class="handwritten">docling</span><span id="digitized">.land</span>
+      </a>
+    </h1>
+    <h2>Skill index</h2>
+  </header>
+
+  <site-nav></site-nav>
+
+  <main>
+      <p>
+
+      </p>
+      <p>
+        These skills are listed here, grouped by topic. While they are arranged here in an order which should be traversable to a learner (and you are encouraged to look around), the materials are best approached in the context of the <a href="lessons.html">Lessons</a>, which introduce the skills in contexts that will be familiar and motivating to linguists and language workers.
+      </p>
+      <p>
+        
+      </p>
+
+      <section>
+      <h2>Preliminaries</h2>
+      <ol>
+        <li><a href="skills/docling-land-howto">How to use <code>docling.land</code></a></li>
+        <li><a href="skills/vs-code">Install and try a text editor</a></li>
+        <li><a href="skills/firefox-browser">What is a web browser?</a></li>
+        <li><a href="skills/the-evergreen-web">Understand the Evergreen Web</a></li>
+        <li><a href="skills/web-platform-preview">Previewing the web platform</a></li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Structured content with <code class="digitized">HTML</code></h2>
+      <ol>
+        <li><a href="skills/create-an-html-page">Create an <code>HTML</code> page</a></li>
+        <li><a href="skills/accessibility">Markup and accessibility</a></li>
+        <li><a href="skills/first-html-page">Your first <code>HTML</code> page</a></li>
+        <li><a href="skills/unicode-basics">Use a <code>meta</code> tag to enable Unicode</a></li>
+        <li><a href="skills/valid-html">Valid html</a></li>
+        <li><a href="skills/whitespace-in-html">Whitespace in <code>HTML</code></a></li>
+        <li><a href="skills/box-model">Learn about the box-model</a></li>
+        <li><a href="skills/sectioning-tags">Sectioning tags</a></li>
+      </ol>
+    </section>
+
+
+
+    <section>
+      <h2>Styling content with <code class="digitized">CSS</code></h2>
+      <ol>
+        <li><a href="skills/css-basics">Get to know Cascading Style Sheets (<code>CSS</code>)</a></li>
+        <li><a href="skills/web-typography">Use a custom font</a></li>
+        <li><a href="skills/bidi">Experiment with bidirectional text</a></li>
+        <li><a href="skills/bidi">Experiment with bidirectional text</a></li>
+
+      </ol>
+    </section>
+
+
+    <section>
+      <h2>Interactivity with <code class="digitized">Javascript</code></h2>
+      <ol>
+        <li><a href="skills/document-object-model">What is the Document Object Model (<code>DOM</code>)?</a></li>
+        <li><a href="skills/javascript-console">Access the Javascript console</a></li>
+        <li><a href="skills/what-is-javascript">Try a few lines of Javascript</a></li>
+      </ol>
+    </section>
+
+
+    <section>
+      <h2>Storing data as <code class="digitized">JSON</code></h2>
+      <ol>
+        <li><a href="skills/json-basics">Get to know <code>JSON</code></a></li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Web Platform Basics</h2>
+      <ol>
+        <li><a href=""></a></li>
+      </ol>
+    </section>  
+
+
+    <section>
+      <h2>Web components for language documentation: <code>docling.js</code></h2>
+      <ol>
+        <li><a href="skills/docling.js">Load an interlinear text with <code>docling.js</code></a></li>
+        <li><a href="skills/web-components-basics">What is a web component?</a></li>
+        <li><a href="skills/try-a-component">Try a web component</a></li>
+      </ol>
+    </section>
+
+
+    <section>
+      <h2>Deploying documentation to the web</h2>
+      <ol>
+        <li><a href="skills/docling.js">Load an interlinear text with <code>docling.js</code></a></li>
+        <li><a href="skills/hosting-options">Try hosting with three providers</a></li>
+
+      </ol>
+    </section>
+
+
+
+  </main>
+
+  <script type="module" src="js/docling-land.js"></script>
+
+</body>
+
+</html>
+
+<!-- 
+
+
+
+  <script type="module">
+    let response = await fetch('skills/skills.json')
+    let { metadata, skills } = await response.json()
+
+    let skillTable = skills
+      .reduce((table, { id, description, category, title }, i) => {
+        if (i === 0) {
+          table.insertAdjacentHTML('afterbegin', `
+<thead>
+  <tr>
+    <th>Category</th>
+    <th>Skill</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+</tbody>
+        
+      `)
+        }
+        let tr = document.createElement('tr')
+        tr.innerHTML = `
+    <td class="skill-title"><a href="skills/${id}/">${title}</a></td>
+    <td class="skill-description">${description}</td>
+    <td><span class="skill-category">${category}</span></td>
+    `
+        table.querySelector('tbody').append(tr)
+        return table
+      }, document.createElement('table'))
+
+// document.querySelector('#skill-table')
+//   .append(skillTable)
+  </script>
+
+ -->

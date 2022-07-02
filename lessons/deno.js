@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "scaffold-lesson": ""
+  }
+}

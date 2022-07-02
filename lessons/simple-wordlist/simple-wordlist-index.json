@@ -1,0 +1,21 @@
+{
+  "title": "Hand code a simple bilingual wordlist in HTML",
+  "id": "simple-wordlist",
+  "prerequisites": [
+    "what-is-html",
+    "using-an-editor"
+  ],
+  "data": [
+    "word",
+    "form",
+    "gloss"
+  ],
+  "skills": [
+    "p-tag",
+    "h1-tag",
+    "h2-tag",
+    "strong-tag",
+    "em-tag"
+  ],
+  "description": "Learn to code a simple HTML word list by hand."
+}

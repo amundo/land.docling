@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "List of components in docling.js",
+    "links": [
+      {
+        "type": "more-info",
+        "url": "about-components.html"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name" : "corpus-view",
+      "category": "corpus"
+    },
+    {
+      "name" : "text-view",
+      "category": "corpus"
+    },
+    {
+      "name" : "sentence-view",
+      "category": "corpus"
+    },
+    {
+      "name" : "word-view",
+      "category": "corpus"
+    },
+    {
+      "name" : "lexicon-view",
+      "category": "lexicon"
+    },
+    {
+      "name" : "grammar-view",
+      "category": "grammar"
+    }
+
+  ]
+}

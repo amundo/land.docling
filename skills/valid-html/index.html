@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>.//skills/valid-html/valid-html.md</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">.//skills/valid-html/valid-html.md</h1>
+</header>
+<p>[378] so but let’s talk about validity in the next skill. [393] So
+the next skill is validate your html lest you be thinking that we’re
+going to be writing massive amounts of html ourselves. [402] That’s not
+the case. [403] We’re just gonna get to know the basic system. [407] But
+I think that at least familiarizing ourselves with the notion of a valid
+document is a useful exercise. [428] So a valid document is one that
+obeys the rules of the specification that it’s attempting to use. [434]
+So html is a quite a complicated specification. [439] There’s a a
+website that you can look at that has the gruesome details and it is
+pretty gruesome. [450] It’s quite an old language at this point. [452]
+It’s very powerful and it has evolved a lot and been standardized a lot.
+[457] So the specification is not intended for new learners. [463] It’s
+for people who want to create a new browser, [465] which is an
+incredibly difficult undertaking. [469] But it’s out there and you can
+look at it if you are curious. [476] But a more realistic way to
+interact with the definition of html is just see if you can make a valid
+page. [485] So if we take our document and we go to this validator,
+[491] we’ll see that there’s more than one way to use it. [493] You can
+either upload a file or you can just paste the content of the file into
+this little text box here and we’ll do that. [502] The third way is to
+pass A U. [503] R. [503] L. [504] And then this validator will go off
+and get that content and check it that way. [521] So if we paste are
+very simple. [524] one Tag page into this validator, [528] we’re going
+to see that there’s an error. [531] So the error is here. [534] It says
+no doc type declared. [537] So this is kind of a an odd tag and it’s
+kind of odd that it comes up so quickly. [555] But this particular tag
+is it has a long and sort of squirrely history and that it doesn’t look
+like other html tags. [567] But you have to begin your html file with
+this little thing which is called the doc type declaration. [574] So
+there are other doc types in the world that are also like html. [580]
+The most familiar is xml. [582] Xml also has a doc type declaration,
+[584] which is more complicated. [585] The html one thankfully is quite
+short nowadays. [589] So all you have to do is it doesn’t have a closing
+tag and it has a very curious exclamation point after the inside the
+opening tag. [602] So it looks like this says doc type and then html.
+[606] So this needs to be the beginning of our html file. [609] And I
+think you know, [610] what I usually do is I have a little boilerplate
+basic html which I’ll share with you and you should just start your html
+pages. [618] That way. [619] V. [619] S code can actually help you to do
+this. [627] So I’ll show you that later. [629] But so if we add this doc
+type declaration, [633] we see that the error goes away. [635] However,
+[636] we do have a warning. [638] So however, [640] the this page is in
+fact valid even though it has nothing no content just to a doc type in a
+title. [648] So there you go. [649] You’ve created a valid html
+page.</p>
+</body>
+</html>

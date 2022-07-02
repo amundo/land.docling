@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>docling outline</title>
+  <style>
+    html {
+      height: 100vh;
+    }
+    body {
+      height: 100%;
+    }
+
+    main {
+      display: flex;
+      height: 100%;
+      overflow-y: hidden;
+    }
+
+    main section {
+      flex: 1;
+      height: 100%;
+      overflow-y: scroll;
+    }
+  </style>
+</head>
+<body>
+  
+
+
+<script type="module">
+import {parseCourse} from './parse-course.js'
+
+let response = await fetch('course-topics.txt')
+let plaintext = await response.text()
+let courseTopics = parseCourse(plaintext)
+
+let groupBy = ({items, property}) => {
+  return items
+  .reduce((byProperty, item) => {
+    if(!byProperty[item[property]]){
+      byProperty[item[property]] = []
+    }
+    byProperty[item[property]].push(item)
+    return byProperty
+  }, {}) 
+}
+
+let byCategory = groupBy({items: courseTopics.topics, property: "category"})
+window.byCategory = byCategory
+let renderCategories = byCategory => {
+
+  let main = Object.entries(byCategory)
+    .reduce((main, [category, topics]) => {
+      let section = document.createElement('section')
+      let h2 = document.createElement('h2')
+      h2.textContent = category
+      section.append(h2)
+      topics.forEach(({topic,category}) => {
+        let p = document.createElement('p')
+        p.innerHTML = `
+<label>
+  <input type=checkbox value="${topic}" name="${category}">
+  ${topic}
+</label>
+        `
+        section.append(p)
+      })
+      main.append(section)
+      return main
+    }, document.createElement('main'))
+  document.body.append(main)
+}
+
+renderCategories(byCategory)
+</script>
+</body>
+</html>

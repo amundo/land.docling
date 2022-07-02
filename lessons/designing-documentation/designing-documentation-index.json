@@ -1,0 +1,20 @@
+{
+  "title": "Designing Documentation",
+  "id": "designing-documentation",
+  "description": "How the web platform can enable design in language documentation.",
+  "prerequisites": [
+
+  ],
+  "data": [
+    "word",
+    "form",
+    "gloss"
+  ],
+  "skills": [
+    "what-is-html",
+    "what-is-css",
+    "what-is-javascript",
+    "what-is-json",
+    "using-an-editor"
+  ]
+}

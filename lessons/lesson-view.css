@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+lesson-view {
+  display:grid;
+  gap: 1em;
+  padding:1em;
+  align-items: baseline;
+  background-color: steelblue;
+  grid-template: 
+    "title level" auto
+    "title . " 1fr
+    "description follows" 1fr
+   / 1fr 2fr;
+}
+
+lesson-view h2 {
+  color:whitesmoke;
+}

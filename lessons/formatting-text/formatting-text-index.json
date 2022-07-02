@@ -1,0 +1,21 @@
+{
+  "title": "Formatting text in the Web Platform",
+  "id": "formatting-text",
+  "prerequisites": [
+    "what-is-html",
+    "using-an-editor"
+  ],
+  "data": [
+    "word",
+    "form",
+    "gloss"
+  ],
+  "skills": [
+    "css-rule",
+    "semantic-html",
+    "link-tag",
+    "style-tag",
+    "responsive-design"
+  ],
+  "description": "Format the wordlist in various ways."
+}

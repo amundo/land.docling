@@ -1,0 +1,20 @@
+{
+  "title": "Development from Scratch",
+  "id": "designing-documentation",
+  "description": "Just enough information to experiment with developing for the web platform.",
+  "prerequisites": [
+    
+  ],
+  "data": [
+    "word",
+    "form",
+    "gloss"
+  ],
+  "skills": [
+    "what-is-a-browser",
+    "what-is-the-console",
+    "what-is-javascript",
+    "what-is-json",
+    "using-an-editor"
+  ]
+}
