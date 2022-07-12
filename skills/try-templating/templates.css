@@ -1,0 +1,41 @@
+[data-layout=kashaya] output {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 2rem;
+  padding: 0 2rem;
+}
+
+[data-layout=kashaya] h1 {
+  grid-column: span 2;
+}
+
+[data-layout=kashaya] h1 {
+  
+}
+
+
+
+[data-layout=takelma] {
+  width: 70%; 
+  display: block;
+}
+
+[data-layout=takelma] .word {
+  display: inline-grid;
+  justify-items: center;
+  margin: .5em  ;
+}
+
+
+[data-layout=takelma] .words {
+  text-align:justify;
+}
+
+[data-layout=takelma] .form {
+  font-size: larger;
+}
+
+[data-layout=takelma] .gloss {
+  font-size: smaller;
+}
+
