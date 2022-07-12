@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>blend</title>
+  <style>
+    body  {
+      height: 100vh;
+      display: grid;
+      place-content:center;
+    }
+    input {
+      width: 80vh;
+    }
+  </style>
+</head>
+<body>
+  <!-- <input type="color" id="left">
+
+  <input type="color" id="right"> -->
+  
+  <input type="range" min="0" max="100" name="saturation">
+
+  <input type="range" min="0" max="100" name="lightness">
+
+<input type="range" min="0" max="360" name="left">
+
+<input type="range" min="0" max="360" name="right">
+
+<script>
+  let [saturation,lightness,from,to] = [...document.querySelectorAll('input')]
+
+  let color = () => {
+    // let gradient = `linear-gradient(to right, ${from.value}, ${to.value})`
+    let gradient = `linear-gradient(to right, hsl(${from.value}, ${saturation.value}%, ${lightness.value}%), hsl(${to.value}, ${saturation.value}%, ${lightness.value}% ))`
+    document.body.style.background = gradient
+    console.log(gradient);
+  }
+
+  window.color = color
+  addEventListener('input', e => {
+    color()
+  })
+
+  color()
+ </script>
+</body>
+</html>
