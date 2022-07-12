@@ -1,0 +1,6864 @@
+{
+  "metadata": {
+    "title": "Education in Jaro",
+    "language": "Hiligaynon",
+    "source": "https://www.youtube.com/watch?v=cUqMWG4QJMk",
+    "media": "education_in_jaro.webm",
+    "fileName": "education_in_jaro-text.json",
+    "lastModified": "2019-07-17T16:01:06.046Z",
+    "notes": [
+      "transcribed with Joshua De Leon as part of the 2014 Fieldmethods class at UCSB, instructor Marianne Mithun.",
+      "original YouTube title ‘School Memories’"
+    ],
+    "speakers": [
+      "Juan Lee"
+    ],
+    "linguists": [
+      "Patrick Hall",
+      "Joshua De Leon"
+    ],
+    "links": [
+      {
+        "type": "audio",
+        "file": "education_in_jaro.wav"
+      }, 
+      {
+        "type": "notes",
+        "url": "http://localhost/Languages/hiligaynon/ucsb-fieldmethods/Notes/hil111_2013-02-25_JDL_PH_IlonggoBoyEducationInJaro.notes.txt"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "transcription": "Hello, akó si Juan Lee.",
+      "translation": "Hello, I’m Juan Lee.",
+      "words": [
+        {
+          "form": "hello",
+          "gloss": "hello",
+          "lang": "en"
+        },
+        {
+          "form": "akó",
+          "gloss": "1S.ABS"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "Lee",
+          "gloss": "Lee",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 8.58,
+            "end": 9.65
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "matopic na akó subóng",
+      "translation": "I’ll start the topic now",
+      "words": [
+        {
+          "form": "ma-topic",
+          "gloss": "IRR-topic",
+          "tags": [
+            "english"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "akó",
+          "gloss": "1S.ABS"
+        },
+        {
+          "form": "subóng",
+          "gloss": "now"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 9.704,
+            "end": 10.714
+          }
+        ]
+      },
+      "note": "As if he's going to start a new topic; Of ma-, J says: “Most of the time you use it before an action verb: the process of changing the topic is itself a verb: the process of changing the"
+    },
+    {
+      "transcription": "parte sa mga eskwélahan.",
+      "translation": "about the schools",
+      "words": [
+        {
+          "form": "parte",
+          "gloss": "part",
+          "tags": [
+            "spanish"
+          ]
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "eskwélahan",
+          "gloss": "school",
+          "tags": [
+            "spanish",
+            "spanish:escuela"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 10.753,
+            "end": 11.818
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "kon diin ka nageskwelá",
+      "translation": "where you studied.",
+      "words": [
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "diin",
+          "gloss": "where"
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "nag-eskwelá",
+          "gloss": "ACTORFOC-study",
+          "tags": [
+            "spanish"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 11.947,
+            "end": 13.023
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Kon anó ginatinán mo da’",
+      "translation": "of what you attended there for.",
+      "words": [
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "anó",
+          "gloss": "what"
+        },
+        {
+          "form": "gin-atinán",
+          "gloss": "COMPL.GOAL-attend",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 13.099,
+            "end": 14.296
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ako ya ginatinán ko ya CPU.",
+      "translation": "As for me, I attended CPU.",
+      "words": [
+        {
+          "form": "ako",
+          "gloss": "1S.ABS"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "gin-atinán",
+          "gloss": "COMPL.GOAL-attend",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 14.355,
+            "end": 16.019
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Hálin sang nurséry sa one",
+      "translation": "From nursery school through first grade",
+      "words": [
+        {
+          "form": "hálin",
+          "gloss": "from"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "nurséry",
+          "gloss": "nursery_school",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "one",
+          "gloss": "one",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 16.111,
+            "end": 17.45
+          }
+        ]
+      },
+      "note": "(Referring to first grade simply as “one”)"
+    },
+    {
+      "transcription": "CPU ni ya Centralian yá Si Juan",
+      "translation": "This is CPU, I’m a Centralian!",
+      "words": [
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "ni",
+          "gloss": "GEN"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "centralian",
+          "gloss": "centralian",
+          "lang": "en"
+        },
+        {
+          "form": "yá",
+          "gloss": "already"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 17.577,
+            "end": 19.619
+          }
+        ]
+      },
+      "note": "ni ya = this is; there’s always a competition in Iloilo about which school you went to."
+    },
+    {
+      "transcription": "in and out",
+      "translation": "in and out",
+      "words": [
+        {
+          "form": "in",
+          "gloss": "in",
+          "lang": "en"
+        },
+        {
+          "form": "and",
+          "gloss": "and",
+          "lang": "en"
+        },
+        {
+          "form": "out",
+          "gloss": "out",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 19.643,
+            "end": 20.39
+          }
+        ]
+      },
+      "note": "Perhaps “In and out of the school”, describing how his whole education was at CPU"
+    },
+    {
+      "transcription": "dirá ko na kwaa akón mga knowlédge",
+      "translation": "That’s where I got all my knowledge.",
+      "words": [
+        {
+          "form": "dirá",
+          "gloss": "there"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "kwaa",
+          "gloss": "get",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "akón",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "knowlédge",
+          "gloss": "knowledge",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 20.423,
+            "end": 22.319
+          }
+        ]
+      },
+      "note": "dirá = that’s where (in this case); mga knowlédge = all my know-how, my IQ;"
+    },
+    {
+      "transcription": "Know?",
+      "translation": "Know?",
+      "words": [
+        {
+          "form": "nu",
+          "gloss": "know",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 22.654,
+            "end": 23.165
+          }
+        ]
+      },
+      "note": "Borrowing from English. “You know?” Joshua says this is a common usage. The spelling «nu» is J’s preference, using English spelling here."
+    },
+    {
+      "transcription": "sa mga maéstra ko si CPU",
+      "translation": "From my teachers at CPU",
+      "words": [
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "maéstra",
+          "gloss": "teacher(F)"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 23.165,
+            "end": 25.245
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "áko gapasalámat gid ko sa íla",
+      "translation": "As for me, I always thank them.",
+      "words": [
+        {
+          "form": "áko",
+          "gloss": "1S.ABS"
+        },
+        {
+          "form": "ga-pa-salámat",
+          "gloss": "CONT-CAUS-thank",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "gid",
+          "gloss": "very"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "íla",
+          "gloss": "3PL.SA"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 25.245,
+            "end": 27.196
+          }
+        ]
+      },
+      "note": "Note fronting. In this case ’ga is short for naga-. J explicitly states this! Ga ano ka? ‘what are you doing?’ is more appropriate than Naga ano ka? ‘what are you doing?’"
+    },
+    {
+      "transcription": "kay kon wala’ silá",
+      "translation": "and if they hadn’t been there",
+      "words": [
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "wala’",
+          "gloss": "NEG",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "silá",
+          "gloss": "3PL.ABS"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 27.196,
+            "end": 28.301
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "seguró si Juan seguró nagapungko na sa kid-",
+      "translation": "Maybe Si Juan would have been sitting on the",
+      "words": [
+        {
+          "form": "seguró",
+          "gloss": "surely"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "seguró",
+          "gloss": "surely"
+        },
+        {
+          "form": "naga-pungko",
+          "gloss": "CONT-sit",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "kid-",
+          "gloss": "kid-",
+          "tags": [
+            "false-start"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 28.301,
+            "end": 30.35
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "kilíd na naga",
+      "translation": "side side of the road",
+      "words": [
+        {
+          "form": "kilíd",
+          "gloss": "side"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "naga",
+          "gloss": "CONT",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 30.35,
+            "end": 30.956
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "kapang limós",
+      "translation": "begging",
+      "words": [
+        {
+          "form": "kapang",
+          "gloss": "begging",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "limós",
+          "gloss": "alms"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 31.411,
+            "end": 32.128
+          }
+        ]
+      },
+      "note": "Probably from Spanish “limosna”, ‘charity’"
+    },
+    {
+      "transcription": "Thank you sa inyó mga ma’am mga sir!",
+      "translation": "Thank Ma’am, thank you Sir!",
+      "words": [
+        {
+          "form": "thank",
+          "gloss": "thank",
+          "lang": "en"
+        },
+        {
+          "form": "you",
+          "gloss": "you",
+          "lang": "en"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "inyó",
+          "gloss": "2PL.OBL"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "ma’am",
+          "gloss": "ma’am",
+          "lang": "en"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "sir",
+          "gloss": "sir",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 32.37,
+            "end": 33.948
+          }
+        ]
+      },
+      "note": "Juan is addressing all the teachers. Female teachers are addressed with Ma’am, male as sir."
+    },
+    {
+      "transcription": "arí na estudyánte nyo hu",
+      "translation": "Here’s your student now!",
+      "words": [
+        {
+          "form": "arí",
+          "gloss": "here",
+          "tags": [
+            "demonstrative"
+          ]
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "estudyánte",
+          "gloss": "student",
+          "tags": [
+            "spanish"
+          ]
+        },
+        {
+          "form": "nyo",
+          "gloss": "2PL.ERG2"
+        },
+        {
+          "form": "hu",
+          "gloss": "EMPH"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 34.015,
+            "end": 35.095
+          }
+        ]
+      },
+      "note": "He’s proud of what he’s become: “Look at me now!” sort of tone."
+    },
+    {
+      "transcription": "Si Juan Lee hu!",
+      "translation": "I’m Mr Juan Lee!",
+      "words": [
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "Lee",
+          "gloss": "Lee",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "hu",
+          "gloss": "EMPH"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 35.261,
+            "end": 36.034
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "kitá nyo hu Big Time na hu sa YouTube!",
+      "translation": "See! He’s Big Time now on YouTube!",
+      "words": [
+        {
+          "form": "kitá",
+          "gloss": "look",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "nyo",
+          "gloss": "2PL.ERG2"
+        },
+        {
+          "form": "hu",
+          "gloss": "EMPH"
+        },
+        {
+          "form": "big_time",
+          "gloss": "big_time",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "hu",
+          "gloss": "EMPH"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "YouTube",
+          "gloss": "YouTube",
+          "tags": [
+            "name"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 36.044,
+            "end": 37.864
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Hello Ma’am! Hello Sir!",
+      "translation": "Hello Ma’am! Hello Sir!",
+      "words": [
+        {
+          "form": "hello",
+          "gloss": "hello",
+          "lang": "en"
+        },
+        {
+          "form": "ma’am",
+          "gloss": "ma’am",
+          "lang": "en"
+        },
+        {
+          "form": "hello",
+          "gloss": "hello",
+          "lang": "en"
+        },
+        {
+          "form": "sir",
+          "gloss": "sir",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 38.01,
+            "end": 39.841
+          }
+        ]
+      },
+      "note": "Still addressing the teachers."
+    },
+    {
+      "transcription": "té kon indí’ ka Centralian",
+      "translation": "And if you’re not a Centralian,",
+      "words": [
+        {
+          "form": "té",
+          "gloss": "so"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "indí’",
+          "gloss": "NEG",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "centralian",
+          "gloss": "centralian",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 39.982,
+            "end": 41.296
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "té basí",
+      "translation": "maybe,",
+      "words": [
+        {
+          "form": "té",
+          "gloss": "so"
+        },
+        {
+          "form": "basí",
+          "gloss": "maybe"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 41.296,
+            "end": 41.853
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "indí ká harelate",
+      "translation": "you can’t relate",
+      "words": [
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "ká",
+          "gloss": "2PL",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "form": "ka-relate",
+          "gloss": "POSS-relate",
+          "tags": [
+            "english",
+            "contraction-maka"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 41.853,
+            "end": 42.756
+          }
+        ]
+      },
+      "note": "[I heard ha-relate, not ka-relate here, but J says no h] here ka- would be short for maka-"
+    },
+    {
+      "transcription": "Pasúnudòn ko topíc ko ha",
+      "translation": "I’m going to arrange my topics",
+      "words": [
+        {
+          "form": "pa-súnud-òn",
+          "gloss": "PA-order-GOAL",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "topíc",
+          "gloss": "topic",
+          "tags": [
+            "english"
+          ]
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "ha",
+          "gloss": "ha",
+          "tags": [
+            "not-sure"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 43.055,
+            "end": 44.224
+          }
+        ]
+      },
+      "note": "pasunudon = put (them) in order. Not sure of semantics of pa…on"
+    },
+    {
+      "transcription": "Kinder, (e)lementary, high school, college",
+      "translation": "Kindergarten, elementary, high school, college",
+      "words": [
+        {
+          "form": "kinder",
+          "gloss": "kindergarten",
+          "lang": "en"
+        },
+        {
+          "form": "(e)lementary",
+          "gloss": "elementary_school",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "high",
+          "gloss": "high",
+          "lang": "en"
+        },
+        {
+          "form": "school",
+          "gloss": "school",
+          "lang": "en"
+        },
+        {
+          "form": "college",
+          "gloss": "college",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 44.224,
+            "end": 46.29
+          }
+        ]
+      },
+      "note": "All of these levels are at a single school, CPU."
+    },
+    {
+      "transcription": "Okay?",
+      "translation": "Okay?",
+      "words": [
+        {
+          "form": "okay",
+          "gloss": "okay",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 46.407,
+            "end": 46.757
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Sa kindér Si Juan",
+      "translation": "In Kindergarten, Mr Juan…",
+      "words": [
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "kindér",
+          "gloss": "kindergarten",
+          "lang": "en"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 46.916,
+            "end": 48.139
+          }
+        ]
+      },
+      "note": "should be sang"
+    },
+    {
+      "transcription": "ang slide",
+      "translation": "the slide",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 48.211,
+            "end": 48.838
+          }
+        ]
+      },
+      "note": "ang slide makes previous IU require sang"
+    },
+    {
+      "transcription": "íya gid ná’ nya",
+      "translation": "it’s his and only his",
+      "words": [
+        {
+          "form": "íya",
+          "gloss": "3S.ABS"
+        },
+        {
+          "form": "gid",
+          "gloss": "very"
+        },
+        {
+          "form": "ná’",
+          "gloss": "already"
+        },
+        {
+          "form": "nya",
+          "gloss": "3S.ERG2"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 48.896,
+            "end": 49.799
+          }
+        ]
+      },
+      "note": "J suggests that maybe there was an event in his Kinder years when they used the slide, and he’s emphasizing that he’s got ownership of it."
+    },
+    {
+      "transcription": "Gapangáway ko akón ya.",
+      "translation": "I’m bickering.",
+      "words": [
+        {
+          "form": "ga-pang-áway",
+          "gloss": "CONT-pang-argue",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "akón",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 49.861,
+            "end": 51.062
+          }
+        ]
+      },
+      "note": "J says that Juan is being defensive here.. Not sure what -pang- is."
+    },
+    {
+      "transcription": "bal-án mo sang kinder ya",
+      "translation": "You know, during Kindergarten,",
+      "words": [
+        {
+          "form": "bal-án",
+          "gloss": "know-LOCFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "kinder",
+          "gloss": "kindergarten"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 51.408,
+            "end": 52.439
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ti nagalecture ang maestrá, Si Juan ya",
+      "translation": "While the teacher is teaching, then Mr Juan",
+      "words": [
+        {
+          "form": "ti",
+          "gloss": "if"
+        },
+        {
+          "form": "naga-lecture",
+          "gloss": "CONT-lecture",
+          "tags": [
+            "english"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          },
+          "lang": "en"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "maestrá",
+          "gloss": "teacher(FEM)",
+          "tags": [
+            "spanish"
+          ]
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 52.508,
+            "end": 54.145
+          }
+        ]
+      },
+      "note": "ti: a conjunction of some kind. When? Then? So? here it’s “while”"
+    },
+    {
+      "transcription": "Si Juan ya nagata-ngá’ sa bentána",
+      "translation": "Mr Juan is staring out the window.",
+      "words": [
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "naga-taʔngá’",
+          "gloss": "CONT-stare",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "bentána",
+          "gloss": "window",
+          "tags": [
+            "spanish",
+            "spanish:ventana"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 54.768,
+            "end": 56.211
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "gináhulát huya kon sin-o tawo’ sa akon slide",
+      "translation": "I was waiting to see if anyone was going to get on the slide",
+      "words": [
+        {
+          "form": "giná-hulát",
+          "gloss": "CONT.GOAL-wait",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "huya",
+          "gloss": "shame"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "sin-o",
+          "gloss": "who"
+        },
+        {
+          "form": "tawo’",
+          "gloss": "person"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "akon",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 56.211,
+            "end": 58.305
+          }
+        ]
+      },
+      "note": "hulát = waiting for ; sin-o = who (san-o = when). Not sure what huya is doing here — perhaps ‘dares to’?"
+    },
+    {
+      "transcription": "pagkaríng sang bell dalagán dayón si Juan walá’ na ya recess-recess ah",
+      "translation": "When the bell rang he ran to class right away without thinking about recess.",
+      "words": [
+        {
+          "form": "pag-ka-ríng",
+          "gloss": "NOM-ABLE-ring",
+          "tags": [
+            "english"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "bell",
+          "gloss": "bell",
+          "lang": "en"
+        },
+        {
+          "form": "dalag-án",
+          "gloss": "run-LOCFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "dayón",
+          "gloss": "always"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "walá’",
+          "gloss": "not"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "recess~recess",
+          "gloss": "REDUP~recess",
+          "lang": "en"
+        },
+        {
+          "form": "a",
+          "gloss": "particle"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 58.461,
+            "end": 62.062
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ang recess yá karón láng na’ ya",
+      "translation": "recess would come later",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "recess",
+          "gloss": "recess",
+          "lang": "en"
+        },
+        {
+          "form": "yá",
+          "gloss": "already"
+        },
+        {
+          "form": "karón",
+          "gloss": "later"
+        },
+        {
+          "form": "láng",
+          "gloss": "just"
+        },
+        {
+          "form": "na’",
+          "gloss": "now"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 62.195,
+            "end": 63.529
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "bastá ang slide ákon na’ nga slide",
+      "translation": "but my slide is mine",
+      "words": [
+        {
+          "form": "bastá",
+          "gloss": "enough",
+          "tags": [
+            "spanish",
+            "spanish:basta"
+          ]
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        },
+        {
+          "form": "ákon",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "na’",
+          "gloss": "now"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 63.636,
+            "end": 65.224
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "e kon maslide ka da’ sa ákon slide",
+      "translation": "if you slide on my slide",
+      "words": [
+        {
+          "form": "e",
+          "gloss": "e"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "ma-slide",
+          "gloss": "IRR-slide",
+          "tags": [
+            "english"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          },
+          "lang": "en"
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "ákon",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 65.283,
+            "end": 66.661
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "indí pwede na’ nya",
+      "translation": "It’s not possible; that can’t be",
+      "words": [
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "pwede",
+          "gloss": "can",
+          "tags": [
+            "spanish",
+            "spanish:puede"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "na’",
+          "gloss": "now"
+        },
+        {
+          "form": "nya",
+          "gloss": "3S.ERG2"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 66.747,
+            "end": 67.778
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "amó man",
+      "translation": "that’s how it is!",
+      "words": [
+        {
+          "form": "amó",
+          "gloss": "same"
+        },
+        {
+          "form": "man",
+          "gloss": "just"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 67.865,
+            "end": 68.304
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Si Juan sang Kinder ka wild Si Juan na’ ya",
+      "translation": "In Kindergarten, Juan was wild.",
+      "words": [
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "kinder",
+          "gloss": "kindergarten",
+          "lang": "en"
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "wild",
+          "gloss": "wild",
+          "metadata": {
+            "wordClass": "verb"
+          },
+          "lang": "en"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "na’",
+          "gloss": "now"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 68.365,
+            "end": 70.806
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "pahigád kamo da!",
+      "translation": "Get out of my way! stay on the side",
+      "words": [
+        {
+          "form": "pa-higád",
+          "gloss": "CAUS-move",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kamo",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "da",
+          "gloss": "there"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 70.913,
+            "end": 72.861
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "sa mga classmate ko sorry lang nga gintulod ta kamo sang una sa slide bal-án mo nga",
+      "translation": "To all my classmates, I'm sorry that I pushed on the slide",
+      "words": [
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "classmate",
+          "gloss": "classmate",
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sorry",
+          "gloss": "sorry",
+          "lang": "en"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "gin-tulod",
+          "gloss": "GOALFOCUS-push",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ta",
+          "gloss": "1S.ABS<2"
+        },
+        {
+          "form": "kamo",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "una",
+          "gloss": "one"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        },
+        {
+          "form": "bal-án",
+          "gloss": "know-LOCFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 72.861,
+            "end": 76.557
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "bal-án mo sang uná sa inyó seesaw indí ako kapungko",
+      "translation": "you know once before I couldn’t sit down on your seesaw",
+      "words": [
+        {
+          "form": "bal-án",
+          "gloss": "know-LOCFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "uná",
+          "gloss": "one"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "inyó",
+          "gloss": "2PL.OBL"
+        },
+        {
+          "form": "seesaw",
+          "gloss": "seesaw",
+          "lang": "en"
+        },
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "ako",
+          "gloss": "1S.ABS"
+        },
+        {
+          "form": "ka-pungko",
+          "gloss": "ABLE-sit",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 76.557,
+            "end": 79.273
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "bal-án mo sang kinder may tag-íya na’ mó",
+      "translation": "You know, in kindergarden there’s an owner",
+      "words": [
+        {
+          "form": "bal-án",
+          "gloss": "know-LOCFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "kinder",
+          "gloss": "kindergarten",
+          "lang": "en"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "tag-íya",
+          "gloss": "owner"
+        },
+        {
+          "form": "na’",
+          "gloss": "now"
+        },
+        {
+          "form": "mó",
+          "gloss": "2S.ERG2"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 79.343,
+            "end": 81.31
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ang seesaw may tagíya na",
+      "translation": "The seesaw, somebody owns the seesaw",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "seesaw",
+          "gloss": "seesaw",
+          "lang": "en"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is"
+        },
+        {
+          "form": "tagíya",
+          "gloss": "owner"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 81.391,
+            "end": 82.826
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "kon sin-ó mapungko sa side sang seesaw sa pihak sa walá o sa tuó",
+      "translation": "Who was sitting by the seesaw  on the left or on the right?",
+      "words": [
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "sin-ó",
+          "gloss": "who"
+        },
+        {
+          "form": "ma-pungko",
+          "gloss": "IRR-sit",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "side",
+          "gloss": "side",
+          "tags": [
+            "english"
+          ]
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "seesaw",
+          "gloss": "seesaw"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "pihak",
+          "gloss": "side"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "walá",
+          "gloss": "left"
+        },
+        {
+          "form": "o",
+          "gloss": "o"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "tuó",
+          "gloss": "right"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 82.826,
+            "end": 86.525
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "may mga tagíya na na ya",
+      "translation": "somebody already owned it",
+      "words": [
+        {
+          "form": "may",
+          "gloss": "there_is"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "tagíya",
+          "gloss": "owner"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 86.612,
+            "end": 87.854
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "pulongkoan",
+      "translation": "the place where you can sit along the edge of the seesaw",
+      "words": [
+        {
+          "form": "pulongkoan",
+          "gloss": "seat",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 87.854,
+            "end": 88.533
+          }
+        ]
+      },
+      "note": "Uncertain about this. I think the translation is mixed up with the speaker’s commentary on usage. Perhaps it’s p<ul>ongko-an?"
+    },
+    {
+      "transcription": "ang slide sa CPU",
+      "translation": "the slide at CPU",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 88.657,
+            "end": 90.038
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "sa kindér tó kamí ka slide da’",
+      "translation": "there at the kindergarden, they’re the ones using the slide",
+      "words": [
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "kindér",
+          "gloss": "kindergarten",
+          "lang": "en"
+        },
+        {
+          "form": "tó",
+          "gloss": "there",
+          "tags": [
+            "contraction:ato"
+          ]
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "slide",
+          "gloss": "slide",
+          "lang": "en"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 90.138,
+            "end": 91.74
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "tí sa ákon, color yellow blá",
+      "translation": "the yellow one was mine",
+      "words": [
+        {
+          "form": "tí",
+          "gloss": "and"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "ákon",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "color",
+          "gloss": "color",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "yellow",
+          "gloss": "yellow",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "blá",
+          "gloss": "you_know",
+          "tags": [
+            "contraction:bala"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 91.82,
+            "end": 93.37
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "pagkakita mo sa kinder sang yellow akon na",
+      "translation": "when you see yellow in kindergarten, it’s mine",
+      "words": [
+        {
+          "form": "pag-ka-kita",
+          "gloss": "NOM-ABLE-see",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "kinder",
+          "gloss": "kindergarten"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "yellow",
+          "gloss": "yellow",
+          "lang": "en"
+        },
+        {
+          "form": "akon",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 93.501,
+            "end": 95.976
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "sa elementary na man",
+      "translation": "now, in elementary,",
+      "words": [
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "elementary",
+          "gloss": "elementary",
+          "lang": "en"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "man",
+          "gloss": "just"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 95.976,
+            "end": 97.028
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ang mádumdumán nga mga namí nga moments ko sang elementary ko",
+      "translation": "I'm remembering lots of my good moments in elementary school",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "má-dumdum-án",
+          "gloss": "IRR-remember-LOCFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "namí",
+          "gloss": "good"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "moments",
+          "gloss": "moments",
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "elementary",
+          "gloss": "elementary",
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 97.028,
+            "end": 99.733
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "sang grade five",
+      "translation": "in fifth grade",
+      "words": [
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "grade",
+          "gloss": "grade",
+          "lang": "en"
+        },
+        {
+          "form": "five",
+          "gloss": "five",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 99.733,
+            "end": 100.494
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "sang nagatan-aw kamí sang pikchay",
+      "translation": "when we’re looking at the pikchay (a vegetable)",
+      "words": [
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "naga-tanʔaw",
+          "gloss": "CONT-look",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "pikchay",
+          "gloss": "pikchay"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 100.613,
+            "end": 102.266
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Namí na ang gardening nga course ko sang uná.",
+      "translation": "My gardening course during my elementary years was good.",
+      "words": [
+        {
+          "form": "namí",
+          "gloss": "good"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "gardening",
+          "gloss": "gardening",
+          "lang": "en"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "course",
+          "gloss": "course",
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "uná",
+          "gloss": "one"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 102.266,
+            "end": 104.188
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "dumduman ko ang mga classmates ko",
+      "translation": "I remember all my classmates",
+      "words": [
+        {
+          "form": "dum~dum-an",
+          "gloss": "REDUPL~remember-LOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "classmates",
+          "gloss": "classmates",
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 104.283,
+            "end": 105.737
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Nahisa sila kay ang pechay ni Juan",
+      "translation": "They’re jealous because of Juan’s pechay.",
+      "words": [
+        {
+          "form": "na-hisa",
+          "gloss": "PAST.GOAL-be_jealous",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sila",
+          "gloss": "3P.ERG1"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "pechay",
+          "gloss": "bok_choy"
+        },
+        {
+          "form": "ni",
+          "gloss": "GEN"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 105.889,
+            "end": 107.608
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ang amon nga klase namí amon pechay kay siempre may mga abono",
+      "translation": "our class was good because our pechay always had a lot of fertilizer",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "amon",
+          "gloss": "1PL.ERG1"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "klase",
+          "gloss": "class",
+          "tags": [
+            "spanish",
+            "spanish:clase"
+          ]
+        },
+        {
+          "form": "namí",
+          "gloss": "good"
+        },
+        {
+          "form": "amon",
+          "gloss": "1PL.ERG1"
+        },
+        {
+          "form": "pechay",
+          "gloss": "bok_choy"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "siempre",
+          "gloss": "always"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "abono",
+          "gloss": "fertilizer",
+          "tags": [
+            "spanish",
+            "spanish:abono"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 107.633,
+            "end": 110.636
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "dakó’-dakó’ amon pecháy",
+      "translation": "our pechay was the biggest",
+      "words": [
+        {
+          "form": "dakó’~dakó’",
+          "gloss": "EMPH~big"
+        },
+        {
+          "form": "amon",
+          "gloss": "1PL.ERG1"
+        },
+        {
+          "form": "pecháy",
+          "gloss": "bok_choy"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 110.636,
+            "end": 111.83
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "pro ang pechay nila sa tupad namon ya mga arikotoy, blaw?",
+      "translation": "but the pechays of (the garden) to ours were skinny, you know?",
+      "words": [
+        {
+          "form": "pro",
+          "gloss": "but"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "pechay",
+          "gloss": "bok_choy"
+        },
+        {
+          "form": "nila",
+          "gloss": "3PL.ERG2"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "tupad",
+          "gloss": "side"
+        },
+        {
+          "form": "namon",
+          "gloss": "EXCL.ERG2"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "arikotoy",
+          "gloss": "skinny"
+        },
+        {
+          "form": "blaw",
+          "gloss": "you_know"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 111.941,
+            "end": 114.976
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "wála iyá bala kwa’a petsay namon te na inít Si Juan?",
+      "translation": "So he stole our pechay and Juan got mad.",
+      "words": [
+        {
+          "form": "wála",
+          "gloss": "NEG"
+        },
+        {
+          "form": "iyá",
+          "gloss": "3S.ERG1"
+        },
+        {
+          "form": "bala",
+          "gloss": "you_know"
+        },
+        {
+          "form": "kwa’a",
+          "gloss": "get",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "petsay",
+          "gloss": "bok_choy"
+        },
+        {
+          "form": "namon",
+          "gloss": "EXCL.ERG2"
+        },
+        {
+          "form": "te",
+          "gloss": "and"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "inít",
+          "gloss": "angry"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 114.976,
+            "end": 117.845
+          }
+        ]
+      },
+      "note": "Here, referring to the guy who had the skinny pechays. kwa’a = take, a very strong word, as if he stole it. But he was just trying to tease Juan to take the piss."
+    },
+    {
+      "transcription": "lapakáy kamí sang pitsay e",
+      "translation": "We stomped on each others’ pechay.",
+      "words": [
+        {
+          "form": "lapak-áy",
+          "gloss": "stomp-RECIP",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "pitsay",
+          "gloss": "bok_choy"
+        },
+        {
+          "form": "e",
+          "gloss": "e"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 118.086,
+            "end": 119.346
+          }
+        ]
+      },
+      "note": "lapák = to stomp on . lapakáy = stomp on each other. hambalánay nag"
+    },
+    {
+      "transcription": "nagkadto si Ma’am Melissa sa guidance nga’a batá’ mo si Juan nangáway",
+      "translation": "Mrs Melissa went to the guidance counselor’s office and asked why your son Juan started a fight.",
+      "words": [
+        {
+          "form": "nag-kadto",
+          "gloss": "COMPL.GOAL-go",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "ma’am",
+          "gloss": "ma’am"
+        },
+        {
+          "form": "Melissa",
+          "gloss": "Melissa",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "guidance",
+          "gloss": "guidance",
+          "lang": "en"
+        },
+        {
+          "form": "nga’a",
+          "gloss": "why"
+        },
+        {
+          "form": "batá’",
+          "gloss": "child"
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan"
+        },
+        {
+          "form": "nang-áway",
+          "gloss": "NANG-fighting",
+          "tags": [
+            "uncertain"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 119.529,
+            "end": 122.835
+          }
+        ]
+      },
+      "note": "nang awáy = you’re the one who started the fight. nga’a = why."
+    },
+    {
+      "transcription": "Eh, si Juan ya walá’ sya comment.",
+      "translation": "Eh, Juan didn’t say anything.",
+      "words": [
+        {
+          "form": "eh",
+          "gloss": "eh"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "walá’",
+          "gloss": "not"
+        },
+        {
+          "form": "sya",
+          "gloss": "3S.ABS"
+        },
+        {
+          "form": "comment",
+          "gloss": "comment",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 123.013,
+            "end": 125.191
+          }
+        ]
+      },
+      "note": "Eh and te have similar functions."
+    },
+    {
+      "transcription": "No comment!",
+      "translation": "No comment!",
+      "words": [
+        {
+          "form": "no",
+          "gloss": "no",
+          "lang": "en"
+        },
+        {
+          "form": "comment",
+          "gloss": "comment",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 125.191,
+            "end": 126.038
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Embarrassing moment.",
+      "translation": "Embarrassing moment.",
+      "words": [
+        {
+          "form": "embarrassing",
+          "gloss": "embarrassing",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "moment",
+          "gloss": "moment",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 126.038,
+            "end": 127.07
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ang embarrassing moment ni Juan ísa maláng sa elementari",
+      "translation": "Juan had that embarrassing moment in elementary school.",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "embarrassing",
+          "gloss": "embarrassing",
+          "lang": "en"
+        },
+        {
+          "form": "moment",
+          "gloss": "moment",
+          "lang": "en"
+        },
+        {
+          "form": "ni",
+          "gloss": "GEN"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "ísa",
+          "gloss": "one"
+        },
+        {
+          "form": "maláng",
+          "gloss": "just",
+          "tags": [
+            "uncertain"
+          ]
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "elementari",
+          "gloss": "elementary_school",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 127.207,
+            "end": 130.181
+          }
+        ]
+      },
+      "note": "isá ma lang  = one and only. like ka counter but means ‘only’"
+    },
+    {
+      "transcription": "nagéntra kó chess sang grade two naga-kapót ko yá pompom.",
+      "translation": "In grade two I got into a chess tournament holding pompoms.",
+      "words": [
+        {
+          "form": "nag-éntra",
+          "gloss": "ACTFOC.COMPL-enter",
+          "tags": [
+            "spanish"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kó",
+          "gloss": "1S.ABS"
+        },
+        {
+          "form": "chess",
+          "gloss": "chess",
+          "lang": "en"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "grade",
+          "gloss": "grade",
+          "lang": "en"
+        },
+        {
+          "form": "two",
+          "gloss": "two",
+          "lang": "en"
+        },
+        {
+          "form": "naga-kapót",
+          "gloss": "ACTFOC.CONT-carry",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "yá",
+          "gloss": "already"
+        },
+        {
+          "form": "pompom",
+          "gloss": "pompom",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 130.287,
+            "end": 132.871
+          }
+        ]
+      },
+      "note": "here kó is shortcut for akó; kapót = holding pompoms. ko yá = I myself. always two words. nagentra vs nagakapot is a nice minimal pair for “goal focus” prefixes."
+    },
+    {
+      "transcription": "Next topic.",
+      "translation": "Next topic.",
+      "words": [
+        {
+          "form": "next",
+          "gloss": "next",
+          "lang": "en"
+        },
+        {
+          "form": "topic",
+          "gloss": "topic",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 132.944,
+            "end": 133.764
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "High school.",
+      "translation": "High school.",
+      "words": [
+        {
+          "form": "high",
+          "gloss": "high",
+          "lang": "en"
+        },
+        {
+          "form": "school",
+          "gloss": "school",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 133.764,
+            "end": 134.57
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Bal-án mo sang úna medyó dungúl ko nagapangtaklas kudá’ sang úna sa high school",
+      "translation": "You know, before I was a hard-headed guy, I used to climb over the fence in high school.",
+      "words": [
+        {
+          "form": "bal-án",
+          "gloss": "know-LOCFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "úna",
+          "gloss": "one"
+        },
+        {
+          "form": "medyó",
+          "gloss": "half"
+        },
+        {
+          "form": "dungúl",
+          "gloss": "stubborn"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "naga-pang-taklas",
+          "gloss": "GOALFOC.CONT-PANG-climb",
+          "tags": [
+            "uncertain"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kudá’",
+          "gloss": "there",
+          "tags": [
+            "uncertain"
+          ]
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "úna",
+          "gloss": "one"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "high",
+          "gloss": "high",
+          "lang": "en"
+        },
+        {
+          "form": "school",
+          "gloss": "school",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 134.602,
+            "end": 137.653
+          }
+        ]
+      },
+      "note": "pang = use of; taklás = climb (over a fence or gate); dungúl = hard-headed;"
+    },
+    {
+      "transcription": "ang indí ko gid malipatán nga moment sang high school ang ginsipá ko ang bolá",
+      "translation": "The moment that I will not forget in high school is when I kicked the ball.",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "gid",
+          "gloss": "very"
+        },
+        {
+          "form": "ma-lipat-án",
+          "gloss": "IRR-forget-LOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "moment",
+          "gloss": "moment",
+          "lang": "en"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "high",
+          "gloss": "high",
+          "lang": "en"
+        },
+        {
+          "form": "school",
+          "gloss": "school",
+          "lang": "en"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "gin-sipá",
+          "gloss": "ACCFOC-kick",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "bolá",
+          "gloss": "ball",
+          "tags": [
+            "spanish",
+            "spanish:bola"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 137.788,
+            "end": 140.973
+          }
+        ]
+      },
+      "note": "malipatán = to forget. sipá = to kick;"
+    },
+    {
+      "transcription": "Pagsípa ko sang bóla na boká’ ang kristál te’ ginkolbaán si Juan hambal ni Juan",
+      "translation": "When I kicked the ball, the crystal broke and Juan was scared and Juan said",
+      "words": [
+        {
+          "form": "pag-sípa",
+          "gloss": "NOM-kick",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "bóla",
+          "gloss": "ball"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "boká’",
+          "gloss": "vase",
+          "tags": [
+            "uncertain"
+          ]
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "kristál",
+          "gloss": "crystal"
+        },
+        {
+          "form": "te’",
+          "gloss": "and"
+        },
+        {
+          "form": "gin-kolba-án",
+          "gloss": "OBJ.COMPL-scare-LOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan"
+        },
+        {
+          "form": "hambal",
+          "gloss": "say"
+        },
+        {
+          "form": "ni",
+          "gloss": "GEN"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 140.973,
+            "end": 144.612
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "walá’ ko to akón yá walá’ ko to akón ya",
+      "translation": "I’m not there I’m not there!",
+      "words": [
+        {
+          "form": "walá’",
+          "gloss": "not"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "akón",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "yá",
+          "gloss": "already"
+        },
+        {
+          "form": "walá’",
+          "gloss": "not"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "akón",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 144.612,
+            "end": 146.628
+          }
+        ]
+      },
+      "note": "Trying to wash his hands of responsibility. Philipinos are fond of duplicating what they say."
+    },
+    {
+      "transcription": "te’ anhún mo kay damo’-damo’  kitá",
+      "translation": "What can you do, lots of people saw it.",
+      "words": [
+        {
+          "form": "te’",
+          "gloss": "and"
+        },
+        {
+          "form": "anhún",
+          "gloss": "do_what",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "damo’~damo’",
+          "gloss": "EMPH~many"
+        },
+        {
+          "form": "kitá",
+          "gloss": "look"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 146.628,
+            "end": 148.013
+          }
+        ]
+      },
+      "note": "anhún = what can you do; it’s hopeless"
+    },
+    {
+      "transcription": "Kinse silá ka bilóg nga mga classmate ko nga walá’ kitá hambalón mo walá’walá’ ko to akón",
+      "translation": "fifteen of my classmates when you asked them they hadn’t seen me",
+      "words": [
+        {
+          "form": "kinse",
+          "gloss": "fifteen"
+        },
+        {
+          "form": "silá",
+          "gloss": "3PL.ABS"
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "bilóg",
+          "gloss": "whole"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "classmate",
+          "gloss": "classmate",
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "walá’",
+          "gloss": "not"
+        },
+        {
+          "form": "kitá",
+          "gloss": "look",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "hambal-ón",
+          "gloss": "say-OBJFOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "walá’walá’",
+          "gloss": "EMPH~not"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "akón",
+          "gloss": "1S.ERG2"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 148.013,
+            "end": 152.108
+          }
+        ]
+      },
+      "note": "kinse = fifteen (they stood up for him); bilóg = in  total; all together; whole"
+    },
+    {
+      "transcription": "bakasyón sa guidance",
+      "translation": "vacation in the guidance counselor’s office",
+      "words": [
+        {
+          "form": "bakasyón",
+          "gloss": "vacation",
+          "tags": [
+            "spanish",
+            "spanish:vacación"
+          ]
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "guidance",
+          "gloss": "guidance",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 152.108,
+            "end": 153.492
+          }
+        ]
+      },
+      "note": "guidance counselor not the same as principal"
+    },
+    {
+      "transcription": "#### indí hungod Sir ah",
+      "translation": "### it’s unintentional",
+      "words": [
+        {
+          "form": "####",
+          "gloss": "####",
+          "tags": [
+            "indistinct"
+          ]
+        },
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "hungod",
+          "gloss": "intentional"
+        },
+        {
+          "form": "sir",
+          "gloss": "sir",
+          "lang": "en"
+        },
+        {
+          "form": "ah",
+          "gloss": "particle"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 153.492,
+            "end": 154.876
+          }
+        ]
+      },
+      "note": "hungód = intentional"
+    },
+    {
+      "transcription": "mmm… sipa’  ko ang bulá anhun mo kay nagumpók sya",
+      "translation": "hmm… I kicked the ball and you know, it bounced",
+      "words": [
+        {
+          "form": "mmm…",
+          "gloss": "mmm…",
+          "tags": [
+            "interjection"
+          ]
+        },
+        {
+          "form": "sipa’",
+          "gloss": "kick",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "bulá",
+          "gloss": "ball"
+        },
+        {
+          "form": "anhun",
+          "gloss": "dont_know",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "nag-umpók",
+          "gloss": "ACTFOC.COMPL-bounce",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sya",
+          "gloss": "3S.ABS"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 155.464,
+            "end": 157.526
+          }
+        ]
+      },
+      "note": "this is an excuse; he’s implying that he doesn’t know why it happened. umpók = bounce"
+    },
+    {
+      "transcription": "té Juan indí na maayo nga response",
+      "translation": "So Juan, that’s not a good response.",
+      "words": [
+        {
+          "form": "té",
+          "gloss": "so"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "maayo",
+          "gloss": "good"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "response",
+          "gloss": "response",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 157.526,
+            "end": 159.123
+          }
+        ]
+      },
+      "note": "Something like that’s “that’s not the right answer.” The Counselor is the one everyone is afraid of because they can expel you."
+    },
+    {
+      "transcription": "té amo to ginbáyran ni Juan",
+      "translation": "So that’s why Juan paid (for the broken glass)",
+      "words": [
+        {
+          "form": "té",
+          "gloss": "so"
+        },
+        {
+          "form": "amo",
+          "gloss": "same"
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "gin-báyr-an",
+          "gloss": "OBJFOC.COMPL-pay-LOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ni",
+          "gloss": "GEN"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 159.334,
+            "end": 160.518
+          }
+        ]
+      },
+      "note": "báyran = paid"
+    },
+    {
+      "transcription": "fast forward",
+      "translation": "fast forward",
+      "words": [
+        {
+          "form": "fast",
+          "gloss": "fast",
+          "lang": "en"
+        },
+        {
+          "form": "forward",
+          "gloss": "forward",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 160.518,
+            "end": 161.141
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "mga members kabáy sang High School",
+      "translation": "We are all members of the High School",
+      "words": [
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "members",
+          "gloss": "members",
+          "lang": "en"
+        },
+        {
+          "form": "kabáy",
+          "gloss": "longing"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "high",
+          "gloss": "high",
+          "lang": "en"
+        },
+        {
+          "form": "school",
+          "gloss": "school",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 161.25,
+            "end": 162.756
+          }
+        ]
+      },
+      "note": "kabáy = I pray that; I hope that. But here, emphasizes membership in a group"
+    },
+    {
+      "transcription": "baw nagapangtaklás kamí ya gate",
+      "translation": "oh my, we climbed over the gate",
+      "words": [
+        {
+          "form": "baw",
+          "gloss": "so"
+        },
+        {
+          "form": "naga-pang-taklás",
+          "gloss": "ACTFOC.CONT-pang-climb",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        },
+        {
+          "form": "gate",
+          "gloss": "gate",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 162.756,
+            "end": 164.341
+          }
+        ]
+      },
+      "note": "taklás = to get up on something, also climb over. Joshua did this: supported longhair hippie style. A Rebel without a Cause!"
+    },
+    {
+      "transcription": "may fence na da’ hu",
+      "translation": "there’s the fence there",
+      "words": [
+        {
+          "form": "may",
+          "gloss": "there_is"
+        },
+        {
+          "form": "fence",
+          "gloss": "fence",
+          "lang": "en"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        },
+        {
+          "form": "hu",
+          "gloss": "EMPH"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 164.341,
+            "end": 165.436
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "baw ginapangtaklás na da’ namón ang mga fence kon kisá nagasuhót kamí da’ siempre kay",
+      "translation": "Oh my, we’d climb over those fences but sometimes we’d go under because of",
+      "words": [
+        {
+          "form": "baw",
+          "gloss": "so"
+        },
+        {
+          "form": "gina-pang-taklás",
+          "gloss": "OBJFOC.COMPL-pang-climb",
+          "tags": [
+            "uncertain"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        },
+        {
+          "form": "namón",
+          "gloss": "1PL.ERG2"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "fence",
+          "gloss": "fence",
+          "lang": "en"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "kisá",
+          "gloss": "sometimes"
+        },
+        {
+          "form": "naga-suhót",
+          "gloss": "OBJFOC.CONT-go_under",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        },
+        {
+          "form": "siempre",
+          "gloss": "always"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 165.436,
+            "end": 169.125
+          }
+        ]
+      },
+      "note": "suhót = go under. When your best friend goes behind your back; that’s also “suhót” — backstabbing."
+    },
+    {
+      "transcription": "batá’ pa to kamí makaigó’ pa kamí  to ya",
+      "translation": "we were kids then we were able fit",
+      "words": [
+        {
+          "form": "batá’",
+          "gloss": "child"
+        },
+        {
+          "form": "pa",
+          "gloss": "still"
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "maka-igó’",
+          "gloss": "IRR.ABLE-fit",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "pa",
+          "gloss": "still"
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "ya",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 169.125,
+            "end": 170.83
+          }
+        ]
+      },
+      "note": "igó’ = to fit ; ígo = to hit; kon indí maka igó’ i-aquit! “If it doesn’t fit, you must acquit!”"
+    },
+    {
+      "transcription": "’syensya lang sorry sa mga maéstro kag maéstra",
+      "translation": "I’m sorry, I’m sorry to all the teachers",
+      "words": [
+        {
+          "form": "’syensya",
+          "gloss": "patience"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "sorry",
+          "gloss": "sorry"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "maéstro",
+          "gloss": "teacher(M)"
+        },
+        {
+          "form": "kag",
+          "gloss": "and"
+        },
+        {
+          "form": "maéstra",
+          "gloss": "teacher(F)"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 171.019,
+            "end": 172.992
+          }
+        ]
+      },
+      "note": "’syensya = short for pasyénsya"
+    },
+    {
+      "transcription": "ang nagugtás sa akón siempre",
+      "translation": "especially the ones that I drove crazy",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "nag-ugtás",
+          "gloss": "ACTFOC.COMPL-drive_crazy",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "akón",
+          "gloss": "1S.ERG2"
+        },
+        {
+          "form": "siempre",
+          "gloss": "always"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 172.992,
+            "end": 174.316
+          }
+        ]
+      },
+      "note": "ugtás = to drive someone crazy"
+    },
+    {
+      "transcription": "baw ang grade ko sang uná sadól mo, 75, 74, 75, 73,",
+      "translation": "oh my, my grades were like a hoe: 75, 74, 75, 73",
+      "words": [
+        {
+          "form": "baw",
+          "gloss": "so"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "grade",
+          "gloss": "grade",
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "uná",
+          "gloss": "one"
+        },
+        {
+          "form": "sadól",
+          "gloss": "hoe"
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "75",
+          "gloss": "75",
+          "lang": "en"
+        },
+        {
+          "form": "74",
+          "gloss": "74",
+          "lang": "en"
+        },
+        {
+          "form": "75",
+          "gloss": "75",
+          "lang": "en"
+        },
+        {
+          "form": "73",
+          "gloss": "73",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 174.316,
+            "end": 178.088
+          }
+        ]
+      },
+      "note": "sadól = a hoe; the joke is that the grades start with 7, because 7 is shaped like a hoe."
+    },
+    {
+      "transcription": "baw indí ko guid malipatán ang mga memories sa CPU",
+      "translation": "wow, I really can’t forget my memories at CPU",
+      "words": [
+        {
+          "form": "baw",
+          "gloss": "so"
+        },
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "guid",
+          "gloss": "very"
+        },
+        {
+          "form": "ma-lipat-án",
+          "gloss": "IRR.COMPL-forget-LOC",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "memories",
+          "gloss": "memories",
+          "lang": "en"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 178.117,
+            "end": 180.445
+          }
+        ]
+      },
+      "note": "the ma- is obligatory"
+    },
+    {
+      "transcription": "daw mga irás",
+      "translation": "like there were lots of itchy bugs",
+      "words": [
+        {
+          "form": "daw",
+          "gloss": "like"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "irás",
+          "gloss": "itchy_worm"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 180.445,
+            "end": 181.35
+          }
+        ]
+      },
+      "note": "irás is an insect that causes itchiness like poison oak; Kaufmann: “A worm of the size of a centipede that causes a painful itch when brought in contact with the skin. ”"
+    },
+    {
+      "transcription": "baw damo-damó irás",
+      "translation": "wow, there were lots of itchy bugs",
+      "words": [
+        {
+          "form": "baw",
+          "gloss": "so"
+        },
+        {
+          "form": "damo-damó",
+          "gloss": "big~many"
+        },
+        {
+          "form": "irás",
+          "gloss": "itchy_worm"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 181.35,
+            "end": 182.605
+          }
+        ]
+      },
+      "note": "damo-damo = a lot"
+    },
+    {
+      "transcription": "abí mo kanamí-nami maglakat kay",
+      "translation": "you know, it’s very nice to walk because",
+      "words": [
+        {
+          "form": "abí",
+          "gloss": "you_know"
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "ka-namí~nami",
+          "gloss": "NOM-very~good"
+        },
+        {
+          "form": "mag-lakat",
+          "gloss": "REAL-walk",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 182.605,
+            "end": 184.373
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "green-green ang mga acacia",
+      "translation": "the acacias were so green",
+      "words": [
+        {
+          "form": "green-green",
+          "gloss": "very~green",
+          "lang": "en"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "acacia",
+          "gloss": "acacia",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 184.373,
+            "end": 185.902
+          }
+        ]
+      },
+      "note": "CPU has lots of acacias on campus"
+    },
+    {
+      "transcription": "baw daw kanamí tulokon bala kay hambál mo",
+      "translation": "wow, it’s good to look at you know, because you’ll say,",
+      "words": [
+        {
+          "form": "baw",
+          "gloss": "so"
+        },
+        {
+          "form": "daw",
+          "gloss": "like"
+        },
+        {
+          "form": "ka-namí",
+          "gloss": "NOM-good"
+        },
+        {
+          "form": "tulok-on",
+          "gloss": "look-ACTION.GOAL",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "bala",
+          "gloss": "you_know"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "hambál",
+          "gloss": "say",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 185.902,
+            "end": 187.676
+          }
+        ]
+      },
+      "note": "tulokón = to look at something; to stare at something."
+    },
+    {
+      "transcription": "daw ará’ ka lang sa postcard",
+      "translation": "as if you’re in a postcard",
+      "words": [
+        {
+          "form": "daw",
+          "gloss": "like"
+        },
+        {
+          "form": "ará’",
+          "gloss": "there"
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "postcard",
+          "gloss": "postcard",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 187.676,
+            "end": 189.084
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "daw makíta amó ang mga acacia green-green",
+      "translation": "as if you could see those acacias, so green",
+      "words": [
+        {
+          "form": "daw",
+          "gloss": "like"
+        },
+        {
+          "form": "ma-kíta",
+          "gloss": "IRR.STATIVE-see",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "amó",
+          "gloss": "same"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "acacia",
+          "gloss": "acacia",
+          "lang": "en"
+        },
+        {
+          "form": "green-green",
+          "gloss": "very~green",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 189.084,
+            "end": 191.146
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "tapós magpungko sa idalóm",
+      "translation": "then when you sit under them",
+      "words": [
+        {
+          "form": "tapós",
+          "gloss": "after"
+        },
+        {
+          "form": "mag-pungko",
+          "gloss": "IRR.STAT-sit",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "idalóm",
+          "gloss": "underneath"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 191.146,
+            "end": 192.556
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "walá’ ka kabaló may nagalatáy na dí’ galí hu",
+      "translation": "you wouldn’t know that there’s something crawling right here already",
+      "words": [
+        {
+          "form": "walá’",
+          "gloss": "not"
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "kabaló",
+          "gloss": "know",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "naga-latáy",
+          "gloss": "CONT-crawl",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "dí’",
+          "gloss": "here"
+        },
+        {
+          "form": "galí",
+          "gloss": "just"
+        },
+        {
+          "form": "hu",
+          "gloss": "EMPH"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 192.663,
+            "end": 194.375
+          }
+        ]
+      },
+      "note": "galí = surprise, maybe; latáy = to crawl"
+    },
+    {
+      "transcription": "pro gapánghamót kon diin ang mga irás",
+      "translation": "but you can smell where the itchy bugs are",
+      "words": [
+        {
+          "form": "pro",
+          "gloss": "but"
+        },
+        {
+          "form": "ga-pang-hamót",
+          "gloss": "CONT-PANG-smell",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "diin",
+          "gloss": "where"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "mga",
+          "gloss": "PL"
+        },
+        {
+          "form": "irás",
+          "gloss": "itchy_worm"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 194.375,
+            "end": 195.867
+          }
+        ]
+      },
+      "note": "pro short for pero. panghamot = the smelling; hamót = small."
+    },
+    {
+      "transcription": "medyó walá’ na man gáwa",
+      "translation": "as if there’s not even a trace",
+      "words": [
+        {
+          "form": "medyó",
+          "gloss": "half"
+        },
+        {
+          "form": "walá’",
+          "gloss": "not"
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "man",
+          "gloss": "just"
+        },
+        {
+          "form": "gáwa",
+          "gloss": "see",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 195.876,
+            "end": 196.853
+          }
+        ]
+      },
+      "note": "gáwa = a trace"
+    },
+    {
+      "transcription": "na hadlók seguró Juan kay",
+      "translation": "they must be afraid of Juan because",
+      "words": [
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "hadlók",
+          "gloss": "fear",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "seguró",
+          "gloss": "surely"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name",
+            "name"
+          ]
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 196.853,
+            "end": 198.63
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "maákig si Juan",
+      "translation": "he might get mad",
+      "words": [
+        {
+          "form": "ma-ákig",
+          "gloss": "IRR-angry",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 198.63,
+            "end": 200.046
+          }
+        ]
+      },
+      "note": "he uses a “whipping noise”to indicate how angry he would be"
+    },
+    {
+      "transcription": "daw Spider Man bala haw’",
+      "translation": "like Spider Man you know",
+      "words": [
+        {
+          "form": "daw",
+          "gloss": "like"
+        },
+        {
+          "form": "Spider Man",
+          "gloss": "Spider Man",
+          "tags": [
+            "name"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "bala",
+          "gloss": "you_know",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "haw’",
+          "gloss": "why_question"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 200.289,
+            "end": 201.289
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Go web! Go web!",
+      "translation": "Go web! Go web!",
+      "words": [
+        {
+          "form": "go",
+          "gloss": "go",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "web",
+          "gloss": "web",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "go",
+          "gloss": "go",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "web",
+          "gloss": "web",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 201.289,
+            "end": 202.47
+          }
+        ]
+      },
+      "note": "Whole sentence is in English."
+    },
+    {
+      "transcription": "",
+      "translation": "",
+      "words": [],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 202.47,
+            "end": 202.534
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Pshoot! Pshoot!",
+      "translation": "Pshoot! Pshoot!",
+      "words": [
+        {
+          "form": "pshoot",
+          "gloss": "pshoot",
+          "tags": [
+            "onomatopoeia"
+          ]
+        },
+        {
+          "form": "pshoot",
+          "gloss": "pshoot",
+          "tags": [
+            "onomatopoeia"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 202.534,
+            "end": 203.255
+          }
+        ]
+      },
+      "note": "making noises as if shooting webs form wrists like Spider Man"
+    },
+    {
+      "transcription": "ang college memories ni Juan",
+      "translation": "the college memories of Juan",
+      "words": [
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "college",
+          "gloss": "college",
+          "lang": "en"
+        },
+        {
+          "form": "memories",
+          "gloss": "memories",
+          "lang": "en"
+        },
+        {
+          "form": "ni",
+          "gloss": "GEN"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 203.276,
+            "end": 204.812
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "basta makitá’ nyo lang ko sa gazebo",
+      "translation": "You all will just see me in a gazebo",
+      "words": [
+        {
+          "form": "basta",
+          "gloss": "enough",
+          "tags": [
+            "spanish"
+          ]
+        },
+        {
+          "form": "ma-kitá’",
+          "gloss": "IRR-look",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "nyo",
+          "gloss": "2PL.ERG2"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "gazebo",
+          "gloss": "gazebo",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 204.812,
+            "end": 206.492
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ára lang ko da’ ya, okay?",
+      "translation": "That’s just where I am, okay?",
+      "words": [
+        {
+          "form": "ára",
+          "gloss": "over_there"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        },
+        {
+          "form": "ya",
+          "gloss": "already",
+          "tags": [
+            "emphatic?"
+          ]
+        },
+        {
+          "form": "okay",
+          "gloss": "OK",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 206.507,
+            "end": 207.773
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "amó lang ná college experience ko",
+      "translation": "that’s  my only college experience",
+      "words": [
+        {
+          "form": "amó",
+          "gloss": "same"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "ná",
+          "gloss": "already"
+        },
+        {
+          "form": "college",
+          "gloss": "college",
+          "lang": "en"
+        },
+        {
+          "form": "experience",
+          "gloss": "experience",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 207.773,
+            "end": 209.436
+          }
+        ]
+      },
+      "note": "here lang = only; ‘very strong’"
+    },
+    {
+      "transcription": "indí kamó mahuyá kon makitá’ nyo ko hi kamó kay mahi man na’ si Juan",
+      "translation": "Don’t be shy when you all see me say ‘hi’ and Juan will say ‘hi’ back",
+      "words": [
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "kamó",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "ma-huyá",
+          "gloss": "IRR-be_shy",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "ma-kitá",
+          "gloss": "IRR-see",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "nyo",
+          "gloss": "2PL.ERG2"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "hi",
+          "gloss": "hi"
+        },
+        {
+          "form": "kamó",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "mahi",
+          "gloss": "mahi",
+          "tags": [
+            "uncertain"
+          ]
+        },
+        {
+          "form": "man",
+          "gloss": "just"
+        },
+        {
+          "form": "na’",
+          "gloss": "now"
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 209.436,
+            "end": 212.548
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "kon kis’á ará’ ko sa gazebo, sa big field",
+      "translation": "sometimes I would be in the gazebo, on the soccer field,",
+      "words": [
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "kis’á",
+          "gloss": "sometimes"
+        },
+        {
+          "form": "ará’",
+          "gloss": "there"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "gazebo",
+          "gloss": "gazebo",
+          "lang": "en"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "big",
+          "gloss": "big",
+          "lang": "en"
+        },
+        {
+          "form": "field",
+          "gloss": "field",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 212.548,
+            "end": 214.788
+          }
+        ]
+      },
+      "note": "big field = he’s talking about the CPU soccer field. Also called futbolán; kis-á = rare, some of the time"
+    },
+    {
+      "transcription": "nagaligid-lígid",
+      "translation": "lying down",
+      "words": [
+        {
+          "form": "naga-ligid~lígid",
+          "gloss": "CONT-lounging~lie_down",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 214.788,
+            "end": 215.983
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "pandakóp tibákla",
+      "translation": "catching grasshoppers",
+      "words": [
+        {
+          "form": "pan-dakóp",
+          "gloss": "PAN-catch",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "tibákla",
+          "gloss": "grasshopper"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 215.983,
+            "end": 217.093
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "makitá mo ko dá’ kon kis’á",
+      "translation": "you’d see me there sometimes",
+      "words": [
+        {
+          "form": "ma-kitá",
+          "gloss": "IRR-see",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "dá’",
+          "gloss": "there"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "kis’á",
+          "gloss": "sometimes"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 217.093,
+            "end": 218.365
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "ibán suyá to sa CPU",
+      "translation": "others are angry about CPU",
+      "words": [
+        {
+          "form": "ibán",
+          "gloss": "others"
+        },
+        {
+          "form": "suyá",
+          "gloss": "be_angry",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 218.365,
+            "end": 219.605
+          }
+        ]
+      },
+      "note": "suyá = angry, but more slangy and less strong than ákig. more like ‘grumpy’. doesn’t last long. Not sure what to is doing here, perhaps referring to the viewing audience?"
+    },
+    {
+      "transcription": "té ang inyo eskwelahán may jeep?",
+      "translation": "does your school have a Jeep?",
+      "words": [
+        {
+          "form": "té",
+          "gloss": "so"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "inyo",
+          "gloss": "2P.ERG1"
+        },
+        {
+          "form": "eskwelahán",
+          "gloss": "school"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "Jeep",
+          "gloss": "Jeep",
+          "tags": [
+            "name"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 219.792,
+            "end": 221.133
+          }
+        ]
+      },
+      "note": "jeep is from the GI jeep, means general public transport. it's unusual that the school has its own transport vehicle."
+    },
+    {
+      "transcription": "amón eskwelahán may Jeep amón eskwelahán nya kitá’ mo may Jaro CPU",
+      "translation": "Our school has a Jeep our school you see (that it says) Jaro CPU.",
+      "words": [
+        {
+          "form": "amón",
+          "gloss": "1S.POSS"
+        },
+        {
+          "form": "eskwelahán",
+          "gloss": "school"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "Jeep",
+          "gloss": "Jeep",
+          "tags": [
+            "name"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "amón",
+          "gloss": "1S.POSS"
+        },
+        {
+          "form": "eskwelahán",
+          "gloss": "school"
+        },
+        {
+          "form": "nya",
+          "gloss": "3S.ERG2"
+        },
+        {
+          "form": "kitá",
+          "gloss": "see",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "Jaro",
+          "gloss": "Jaro",
+          "tags": [
+            "place"
+          ]
+        },
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 221.133,
+            "end": 224.636
+          }
+        ]
+      },
+      "note": "He's claiming it has its own jeep because it says CPU. the Public utitliy vehicles that goes around Iloilo has the route on the bus."
+    },
+    {
+      "transcription": "CPU Central Philippine University",
+      "translation": "CPU Central Philippine University",
+      "words": [
+        {
+          "form": "CPU",
+          "gloss": "CPU",
+          "tags": [
+            "name",
+            "acronym"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "central",
+          "gloss": "central",
+          "lang": "en"
+        },
+        {
+          "form": "philippine",
+          "gloss": "philippine",
+          "lang": "en"
+        },
+        {
+          "form": "university",
+          "gloss": "university",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 224.907,
+            "end": 226.918
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "té eskwelahán kay",
+      "translation": "there’s a school because",
+      "words": [
+        {
+          "form": "té",
+          "gloss": "so"
+        },
+        {
+          "form": "eskwelahán",
+          "gloss": "school"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 227.008,
+            "end": 228.818
+          }
+        ]
+      },
+      "note": "he is trying to explain why it's written on all the buses"
+    },
+    {
+      "transcription": "Jaro",
+      "translation": "Jaro",
+      "words": [
+        {
+          "form": "Jaro",
+          "gloss": "Jaro",
+          "tags": [
+            "place"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 228.818,
+            "end": 229.746
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "sugpón na dá’ ngalán sang eskwelahán may Jaro",
+      "translation": "they attach the name of the School at Jaro",
+      "words": [
+        {
+          "form": "sugpón",
+          "gloss": "join",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "na",
+          "gloss": "already"
+        },
+        {
+          "form": "dá’",
+          "gloss": "there"
+        },
+        {
+          "form": "ngalán",
+          "gloss": "name"
+        },
+        {
+          "form": "sang",
+          "gloss": "like"
+        },
+        {
+          "form": "eskwelahán",
+          "gloss": "school"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "Jaro",
+          "gloss": "Jaro",
+          "tags": [
+            "place"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 229.746,
+            "end": 231.916
+          }
+        ]
+      },
+      "note": "sugpón = attached to; next"
+    },
+    {
+      "transcription": "anó kay walá’?",
+      "translation": "is there any?",
+      "words": [
+        {
+          "form": "anó",
+          "gloss": "what"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "walá’",
+          "gloss": "not"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 231.916,
+            "end": 232.91
+          }
+        ]
+      },
+      "note": "is there any other school like that that has its own bus"
+    },
+    {
+      "transcription": "Jaro likó’ guro ambót to kon may Likó’ nga eskwelahan",
+      "translation": "Maybe a Jaro-Left I don’t know, maybe there’s a school called Left",
+      "words": [
+        {
+          "form": "Jaro",
+          "gloss": "Jaro",
+          "tags": [
+            "place"
+          ]
+        },
+        {
+          "form": "likó’",
+          "gloss": "left"
+        },
+        {
+          "form": "guro",
+          "gloss": "maybe"
+        },
+        {
+          "form": "ambót",
+          "gloss": "do_not_know\\1S",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "to",
+          "gloss": "there"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "likó’",
+          "gloss": "left"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "eskwelahan",
+          "gloss": "school",
+          "tags": [
+            "spanish"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 232.91,
+            "end": 235.501
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "hmm, curve",
+      "translation": "hmm, curve",
+      "words": [
+        {
+          "form": "hmm",
+          "gloss": "hmm"
+        },
+        {
+          "form": "curve",
+          "gloss": "curve",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 235.619,
+            "end": 236.494
+          }
+        ]
+      },
+      "note": "derecho = straight; the passenger line from Iloilo to Jaro is called “derecho”"
+    },
+    {
+      "transcription": "curve",
+      "translation": "curve",
+      "words": [
+        {
+          "form": "curve",
+          "gloss": "curve",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 236.704,
+            "end": 237.225
+          }
+        ]
+      },
+      "note": "he's talking about the route of another jjeepney without the CPUname"
+    },
+    {
+      "transcription": "huo may curve man kamí rotonda",
+      "translation": "yeah, we also our own curve called the rotonda",
+      "words": [
+        {
+          "form": "huo",
+          "gloss": "yeah"
+        },
+        {
+          "form": "may",
+          "gloss": "there_is"
+        },
+        {
+          "form": "curve",
+          "gloss": "curve",
+          "lang": "en"
+        },
+        {
+          "form": "man",
+          "gloss": "just"
+        },
+        {
+          "form": "kamí",
+          "gloss": "1EXC"
+        },
+        {
+          "form": "rotonda",
+          "gloss": "rotonda",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 237.376,
+            "end": 239.573
+          }
+        ]
+      },
+      "note": "rotonda = bus loop; there is one at the 3rd gate. He’s joking as if there’s a complete bus system at CPU, faux-bragging"
+    },
+    {
+      "transcription": "Kitá mo ID kó? ID ko na’ sa high school, first year high school",
+      "translation": "Did you see my ID? That’s my ID in high school, first year of high school.",
+      "words": [
+        {
+          "form": "kitá",
+          "gloss": "look",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "mo",
+          "gloss": "2S.ERG2"
+        },
+        {
+          "form": "ID",
+          "gloss": "ID",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "kó",
+          "gloss": "1S.ABS"
+        },
+        {
+          "form": "ID",
+          "gloss": "ID",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "na’",
+          "gloss": "now"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "high",
+          "gloss": "high",
+          "lang": "en"
+        },
+        {
+          "form": "school",
+          "gloss": "school",
+          "lang": "en"
+        },
+        {
+          "form": "first",
+          "gloss": "first",
+          "lang": "en"
+        },
+        {
+          "form": "year",
+          "gloss": "year",
+          "lang": "en"
+        },
+        {
+          "form": "high",
+          "gloss": "high",
+          "lang": "en"
+        },
+        {
+          "form": "school",
+          "gloss": "school",
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 240.556,
+            "end": 243.421
+          }
+        ]
+      },
+      "note": "(Shows his high school ID  in the video)"
+    },
+    {
+      "transcription": "guinpalaminate ko kay gwápo pa ko di daan.",
+      "translation": "I have it laminated because I am still handsome here.",
+      "words": [
+        {
+          "form": "gin-pa-laminate",
+          "gloss": "COMPL.GOAL-CAUS-laminate",
+          "tags": [
+            "english"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          },
+          "lang": "en"
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "kay",
+          "gloss": "because"
+        },
+        {
+          "form": "gwápo",
+          "gloss": "handsome",
+          "tags": [
+            "spanish",
+            "spanish:guapo"
+          ]
+        },
+        {
+          "form": "pa",
+          "gloss": "still",
+          "tags": [
+            "uncertain"
+          ]
+        },
+        {
+          "form": "ko",
+          "gloss": "1S.ERG1"
+        },
+        {
+          "form": "di",
+          "gloss": "here"
+        },
+        {
+          "form": "daan",
+          "gloss": "old_days"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 243.586,
+            "end": 245.456
+          }
+        ]
+      },
+      "note": "daan = should, but can mean ‘old’ or still; English laminate; di daan = shortcut for di nga daan. di = short for diri; refers to the picture in the id."
+    },
+    {
+      "transcription": "hásta subóng gwápo man gyápon",
+      "translation": "Even until now, just like always, I’m still handsome",
+      "words": [
+        {
+          "form": "hásta",
+          "gloss": "until",
+          "tags": [
+            "spanish"
+          ]
+        },
+        {
+          "form": "subóng",
+          "gloss": "now"
+        },
+        {
+          "form": "gwápo",
+          "gloss": "handsome",
+          "tags": [
+            "spanish",
+            "spanish:guapo"
+          ]
+        },
+        {
+          "form": "man",
+          "gloss": "just"
+        },
+        {
+          "form": "gyápon",
+          "gloss": "still",
+          "tags": [
+            "uncertain"
+          ]
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 245.585,
+            "end": 246.991
+          }
+        ]
+      },
+      "note": "gyápon = same as always"
+    },
+    {
+      "transcription": "K? Antes kamó magcomment",
+      "translation": "Okay? Before you make a comment…",
+      "words": [
+        {
+          "form": "k",
+          "gloss": "k"
+        },
+        {
+          "form": "antes",
+          "gloss": "before",
+          "tags": [
+            "spanish",
+            "spanish:antes"
+          ]
+        },
+        {
+          "form": "kamó",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "mag-comment",
+          "gloss": "INF-comment",
+          "metadata": {
+            "wordClass": "verb"
+          },
+          "lang": "en"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 247.139,
+            "end": 248.62
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "damó’ sa ímo comment kon balá ka lawlaw sa íya",
+      "translation": "You have lots of comments that I’m no good",
+      "words": [
+        {
+          "form": "damó’",
+          "gloss": "a_lot"
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "ímo",
+          "gloss": "2S.ABS"
+        },
+        {
+          "form": "comment",
+          "gloss": "comment",
+          "lang": "en"
+        },
+        {
+          "form": "kon",
+          "gloss": "with"
+        },
+        {
+          "form": "balá",
+          "gloss": "you_know",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "ka",
+          "gloss": "2S.ERG1"
+        },
+        {
+          "form": "lawlaw",
+          "gloss": "loosen",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "sa",
+          "gloss": "to"
+        },
+        {
+          "form": "íya",
+          "gloss": "3S.ABS"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 248.634,
+            "end": 250.613
+          }
+        ]
+      },
+      "note": "lawlaw = no good; someone who sucks; the least talented — literally apparently “slacken”, perhaps comparable to the negative connotations of Eng. slacker"
+    },
+    {
+      "transcription": "indí gustó si Juan nga mag-ininawáy kamó da’ magcomment kamó nga amo ní si ang eskwelahán nyo amo ní amo ná",
+      "translation": "Juan doesn’t like for you to fight in the comments about this school or that school",
+      "words": [
+        {
+          "form": "indí",
+          "gloss": "NEG"
+        },
+        {
+          "form": "gustó",
+          "gloss": "like",
+          "tags": [
+            "spanish"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "Juan",
+          "gloss": "Juan",
+          "tags": [
+            "name"
+          ]
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "mag-inin-awáy",
+          "gloss": "NOM-fight-RECIP",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "kamó",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        },
+        {
+          "form": "mag-comment",
+          "gloss": "NOM-comment",
+          "tags": [
+            "english"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          },
+          "lang": "en"
+        },
+        {
+          "form": "kamó",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "nga",
+          "gloss": "LINK"
+        },
+        {
+          "form": "amo",
+          "gloss": "same"
+        },
+        {
+          "form": "ní",
+          "gloss": "this",
+          "tags": [
+            "contraction:ini"
+          ]
+        },
+        {
+          "form": "si",
+          "gloss": "PERS"
+        },
+        {
+          "form": "ang",
+          "gloss": "FOCUS"
+        },
+        {
+          "form": "eskwelahán",
+          "gloss": "school"
+        },
+        {
+          "form": "nyo",
+          "gloss": "2PL.ERG2"
+        },
+        {
+          "form": "amo",
+          "gloss": "same"
+        },
+        {
+          "form": "ní",
+          "gloss": "this"
+        },
+        {
+          "form": "amo",
+          "gloss": "same"
+        },
+        {
+          "form": "ná",
+          "gloss": "already"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 250.73,
+            "end": 255.173
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "Peace lang kamó balá okay?  relax lang kamó da’!",
+      "translation": "Peace out all you guys okay? Just relax out there!",
+      "words": [
+        {
+          "form": "peace",
+          "gloss": "peace",
+          "tags": [
+            "english"
+          ],
+          "lang": "en"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "kamó",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "balá",
+          "gloss": "you_know",
+          "metadata": {
+            "wordClass": "verb"
+          }
+        },
+        {
+          "form": "okay",
+          "gloss": "OK",
+          "lang": "en"
+        },
+        {
+          "form": "relax",
+          "gloss": "relax",
+          "tags": [
+            "english"
+          ],
+          "metadata": {
+            "wordClass": "verb"
+          },
+          "lang": "en"
+        },
+        {
+          "form": "lang",
+          "gloss": "just"
+        },
+        {
+          "form": "kamó",
+          "gloss": "2PL.ABS"
+        },
+        {
+          "form": "da’",
+          "gloss": "there"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 255.173,
+            "end": 257.75
+          }
+        ]
+      },
+      "note": "He’s telling potential YouTube commenters to chill out before writing hateful comments"
+    },
+    {
+      "transcription": "Hah!",
+      "translation": "Got it!?",
+      "words": [
+        {
+          "form": "hah",
+          "gloss": "hah"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 257.75,
+            "end": 258.133
+          }
+        ]
+      },
+      "note": ""
+    },
+    {
+      "transcription": "baboush!",
+      "translation": "See ya!",
+      "words": [
+        {
+          "form": "baboush",
+          "gloss": "baboush"
+        }
+      ],
+      "tags": [],
+      "metadata": {
+        "links": [
+          {
+            "type": "timestamp",
+            "start": 258.133,
+            "end": 259.375
+          }
+        ]
+      },
+      "note": "Street slang for goodbye"
+    }
+  ]
+}
