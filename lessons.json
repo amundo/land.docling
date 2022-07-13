@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Lexicon crash course",
+    "number": 2,
+    "id": "lexicon-crash-course",
+    "description": "A whirlwind tour of a building a usable web lexicon"
+  },
+  {
+    "title": "Markup, Granularity, Semantics, Accessibility",
+    "number": 2,
+    "id": "markup",
+    "description": "Granularity in documents and applications"
+  },
+  {
+    "title": "A Digital Boasian Trilogy: Documentary data as `JSON`",
+    "number": 2,
+    "id": "a-digital-boasian-trilogy",
+    "description": "What is the shape of documentary data?"
+  },
+  {
+    "title": "Documentary Workflows and Dataflows",
+    "number": 2,
+    "id": "documentary-workflows-and-dataflows",
+    "description": "Being explicit about the work we do"
+  },
+  {
+    "title": "Web components with docling.js",
+    "number": 2,
+    "id": "web-components-with-docling.js",
+    "description": "Pre-designed interactive elements for documentation applications"
+  },
+  {
+    "title": "A Design Project",
+    "number": 2,
+    "id": "a-design-project",
+    "description": "Paper prototyping a documentary workflow"
+  },
+  {
+    "title": "Paper prototyping",
+    "number": 2,
+    "id": "paper-prototyping",
+    "description": "Designing applications begines with ideas"
+  },
+  {
+    "title": "Planning projects",
+    "number": 2,
+    "id": "planning-projects",
+    "description": "Discussions of small projects"
+  },
+  {
+    "title": "Presentations",
+    "number": 2,
+    "id": "presentations",
+    "description": ""
+  },
+  {
+    "title": "Presentations",
+    "number": 2,
+    "id": "presentations",
+    "description": ""
+  }
+]

@@ -1,0 +1,29 @@
+Lexicon crash course
+A whirlwind tour of a building a usable web lexicon
+
+Markup, Granularity, Semantics, Accessibility
+Granularity in documents and applications
+
+A Digital Boasian Trilogy: Documentary data as `JSON`
+What is the shape of documentary data?
+
+Documentary Workflows and Dataflows
+Being explicit about the work we do
+
+Web components with docling.js
+Pre-designed interactive elements for documentation applications
+
+A Design Project
+Paper prototyping a documentary workflow
+
+Paper prototyping
+Designing applications begines with ideas
+
+Planning projects
+Discussions of small projects
+
+Presentations
+
+
+Presentations
+
