@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="edit-lessons.css">
+  <title>edit lessons</title>
+</head>
+<body>
+  <main>
+
+  </main>
+  <script type="module">
+
+if(!localStorage.lessons){
+  let response = await fetch('lessons.json')
+  let lessons = await response.json()
+  localStorage.lessons = JSON.stringify(lessons)
+}
+
+let lessons = JSON.parse(localStorage.lessons)
+
+let generateId = title => title
+  .toLowerCase()
+  .split(":")[0]
+  .split(/\P{Letter}+/gu)
+  .join('-')
+
+lessons.map(({date,title,id,description}) => {
+  let form = document.createElement('form')
+  form.innerHTML  = `
+  <input placeholder=title name=title value="${title}">
+  <input type=date name=date value="${date}">
+<textarea placeholder=description name=description>${description}</textarea>
+<input placeholder=id name=id value="${id}">
+  `
+  return form
+})
+.forEach(form => document.body.querySelector('main').append(form))
+
+
+addEventListener('submit', submitEvent => submitEvent.preventDefault())
+addEventListener('input', inputEvent => {
+  let data = read()
+  localStorage.lessons = JSON.stringify(read(), null, 2)
+})
+
+window.updateIds = () => addEventListener("input", inputEvent => {
+  if(inputEvent.target.matches('[name=title')){
+    let idInput = inputEvent.target.closest('form').querySelector('[name=id]')
+    idInput.value = generateId(inputEvent.target.value)
+  }
+})
+
+window.read = () => Array.from(document.querySelectorAll('form'))
+  .map(form => {
+    let lessonData = {} 
+    let fields = Array.from(form.querySelectorAll('[name]'))
+    
+    fields.forEach(({name,value}) => {
+      lessonData[name] = value
+    })
+
+    lessonData.id = generateId(lessonData.title)
+    
+    return lessonData 
+  })
+
+addEventListener('keydown', keydownEvent => {
+  if(keydownEvent.key == 'Escape'){
+    document.querySelector("main").classList.toggle('compressed')
+  }
+})
+  </script>
+</body>
+</html>

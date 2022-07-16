@@ -1,29 +1,74 @@
+2022-09-01
 Lexicon crash course
 A whirlwind tour of a building a usable web lexicon
 
-Markup, Granularity, Semantics, Accessibility
-Granularity in documents and applications
+2022-09-08
+Granularity in Fieldwork and Archives
+Granular data is fully labeled, consistently structured data: but fieldwork and archives impose different constraints on its production and use.
 
+2022-09-15
+The Web Platform: Basics
+How Browsers, URLs, HTML, CSS, and Javascript create a new document and application programming environment, and how we can make use of that.
+
+2022-09-22
+Markup, Semantics, Accessibility
+HTML is a fundamental language of the web platform - understanding its development and 
+
+
+2022-09-29
+Browser-based applications
+
+2022-10-06
 A Digital Boasian Trilogy: Documentary data as `JSON`
 What is the shape of documentary data?
+
 
 Documentary Workflows and Dataflows
 Being explicit about the work we do
 
+
 Web components with docling.js
 Pre-designed interactive elements for documentation applications
 
+
+2022-10-06
 A Design Project
 Paper prototyping a documentary workflow
 
+
+2022-10-13
 Paper prototyping
 Designing applications begines with ideas
 
+
+2022-10-27
 Planning projects
 Discussions of small projects
 
+
+2022-11-03
 Presentations
 
 
+2022-11-10
 Presentations
 
+2022-11-17
+2022-12-01
+2022-12-08
+
+
+
+2022-09-01
+2022-09-08
+2022-09-15
+2022-09-22
+2022-09-29
+2022-10-06
+2022-10-13
+2022-10-27
+2022-11-03
+2022-11-10
+2022-11-17
+2022-12-01
+2022-12-08

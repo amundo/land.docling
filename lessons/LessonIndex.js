@@ -9,8 +9,8 @@ export class LessonIndex extends HTMLElement {
 
   }
 
-  set data(links){
-    this.links = links
+  set data(lessons){
+    this.lessons = lessons
     this.render()
   }
 
@@ -28,28 +28,12 @@ export class LessonIndex extends HTMLElement {
     }
   }
 
-  async fetch(url){
-    let response = await fetch(url)
-    let data = await response.json()
+  renderTimedate({timedate, month, day}){
+    return `<time datetime="${timedate}"></time>`
+  }
 
-    let links = data.lessons.map(link => {
-      let metaUrl = import.meta.url
-      let path = metaUrl.slice(0,metaUrl.lastIndexOf('/')+1)
-      let url = new URL(`${link}/${link}-index.json`, path).href
-      return url
-    })
-
-    let responses = await Promise.all(links.map(link => fetch(link)))
-
-    let lessons = await Promise.all(responses.map(response => response.json()))
-
-    lessons.forEach(lesson => {
-      let lessonView = new LessonView()
-      lessonView.data = lesson
-      this.append(lessonView)
-    })
-
-
+  renderLesson(lesson){
+    let time = `<time datetime=""><abbr title="September">SEP</abbr> <span class="day">1</span></time>`
   }
 
   render(){

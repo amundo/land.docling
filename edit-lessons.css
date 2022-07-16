@@ -1,0 +1,57 @@
+
+    form {
+      display: grid;
+      margin: 1em 1em 3em;
+      grid-template-columns:  1fr auto;
+      gap: .4em 1em;
+      min-height: 10rem;
+    }
+    
+    form [name=description]{
+      /* grid-column: span 2; */
+    }
+    
+    [name=id],
+    [name=date] {
+      border:none;
+      font-family: monospace;
+    }
+    
+    [name=title]{
+      border: none;
+      border-bottom: 1px dashed lightgray;
+      font-size: x-large;
+    }
+    
+    .compressed [name=date],
+    .compressed [name=description],
+    .compressed [name=id]{
+      display: none;
+    }
+    
+    .compressed [name=title] {
+      font-size: 1rem;
+    }
+    
+    .compressed form {
+      min-height: 1rem;
+      margin:0;
+    }
+    
+    main {
+      counter-reset: lesson;
+    }
+    
+    .compressed form {
+      counter-increment: lesson;
+      display: grid;
+      grid-template-columns: auto 1fr;
+    }
+    
+    .compressed form:before {
+      content: counter(lesson) '.';
+      display: inline-block;
+      width:3ch;
+      text-align: right;
+    }
+      
