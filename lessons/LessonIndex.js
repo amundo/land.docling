@@ -59,20 +59,16 @@ export class LessonIndex extends HTMLElement {
     let time = this.renderDate(lesson.date)
 
     let div = document.createElement('div')
-    div.classList.add("lesson")
+    div.classList.add("lesson-summary")
     div.innerHTML = `${time.outerHTML}
     <h3>${lesson.title}</h3>
+    <p>${lesson.description}</p>
     `
     return div
   }
 
   render(){
-    document.title = this.data.title
-    this.innerHTML = `
-      <header>
-        <h1>${this.data.title}</h1>
-      </header>
-      <main>
+    this.querySelector('main').innerHTML = `
       ${
         this.data.map(lesson => {
           let div = this.renderLesson(lesson)
@@ -80,9 +76,6 @@ export class LessonIndex extends HTMLElement {
         })
         .join('\n')
       }
-      </main>
-
-    
     `
   }
 

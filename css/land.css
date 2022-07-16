@@ -13,7 +13,6 @@ body {
 }
 
 main {
-  box-shadow: 0 10px 20px gainsboro inset;
   padding: 0 10%;
 
 }
@@ -139,21 +138,24 @@ dl dt {
   scroll-margin-top: 3em;
 }
 
-#lessons article h4:before {
-  display: inline-grid;
-  content: counter(lesson-number);
-  place-content:center;
-  width:1.5em;
-  height:1.5em;
-  border: 1px solid;
-  border-radius: 50%;
-  margin-right: 1em;
-
-}
 
 #lessons article > a {
   text-decoration: none;
   color: black;
+}
+
+lesson-index main {
+  display: grid;
+  gap: 2em;;
+}
+
+#lessons .lesson-summary {
+  flex: 1;
+  padding: 1em;
+  border-radius: 1em;
+  box-shadow: -12px 12px 10px gainsboro;
+  border: 1px solid gainsboro;
+  background: white;
 }
 
 #lessons main h3.topic .digitized {
@@ -212,7 +214,7 @@ dl dt {
   font-weight:bold;
   color:white;
   text-decoration: none;
-  background:hsl(0, 66%, 53.9%);
+  background:hsl(0, 65.3%, 37.3%);
   margin:0;
 }
 #lessons time .day {
