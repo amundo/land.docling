@@ -39,18 +39,6 @@ export class LessonView extends HTMLElement {
     this.innerHTML = `
       <h2>${title}</h2>
       <p class=lesson-description>${description}</p>
-      <ul class=lesson-prerequisites>
-      ${prerequisites
-        .map(prerequisite => `<li>${prerequisite}</li>`)
-        .join('\n')
-      }
-      </ul>
-      <ul class=skills>
-      ${skills
-        .map(skill => `<li class=skill><a href="skills/${skill}/${skill}.html">${skill}</a></li>`)
-        .join('\n')
-      }
-      </ul>
     `
   }
 
