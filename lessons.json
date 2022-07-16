@@ -37,43 +37,43 @@
   },
   {
     "title": "Web Components",
-    "date": "",
+    "date": "2022-10-13",
     "description": "If you consider the built-in video tag, you will realize that it is a combination of content, display styles, and interactive functionality. The Web Component standard (especially “Custom Elements”) defines how to create new HTML tags with content, styles, and interactivity. The docling.js library defines custom elements which are specific to language documentation.",
     "id": "web-components"
   },
   {
     "title": "Designing Interfaces: Paper prototyping",
-    "date": "",
+    "date": "2022-10-27",
     "description": "It is important to realize that software design is not just “coding”: there can be no coding without a well-defined user interface. In this lesson we practice the skill of 1) defining a dataflow and workflow and 2) prototyping user interfaces for carrying them out.",
     "id": "designing-interfaces"
   },
   {
     "title": "Search and Javascript array methods",
-    "date": "2022-10-06",
+    "date": "2022-11-03",
     "description": "This lesson focuses on one specific kind of Javascript programming: filtering data with simple “predicate functions”. Structured data is all well and good, but as it grows in size, search functionality becomes obligatory. Here we study a handful of “array methods” which can serve as the basis for simple but power search functionality.",
     "id": "search-and-javascript-array-methods"
   },
   {
     "title": "Workshopping Interface designs I",
-    "date": "2022-10-13",
+    "date": "2022-11-10",
     "description": "Paper prototyping a documentary workflow",
     "id": "workshopping-interface-designs-i"
   },
   {
     "title": "Planning projects",
-    "date": "2022-10-27",
+    "date": "2022-11-17",
     "description": "Discussions of small projects",
     "id": "planning-projects"
   },
   {
     "title": "Presentations",
-    "date": "2022-11-03",
+    "date": "2022-12-01",
     "description": "",
     "id": "presentations"
   },
   {
     "title": "Presentations",
-    "date": "2022-11-10",
+    "date": "2022-12-08",
     "description": "",
     "id": "presentations"
   }
