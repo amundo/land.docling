@@ -61,7 +61,7 @@ export class LessonIndex extends HTMLElement {
     let div = document.createElement('div')
     div.classList.add("lesson-summary")
     div.innerHTML = `${time.outerHTML}
-    <h3>${lesson.title}</h3>
+    <h3><a href="lessons/${lesson.id}/${lesson.id}.html">${lesson.title}</a></h3>
     <p>${lesson.description}</p>
     `
     return div
