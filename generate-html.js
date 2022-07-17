@@ -1,0 +1,9 @@
+
+let skillsTemplate = `
+
+`
+
+
+let lessonTemplate = `
+
+`
