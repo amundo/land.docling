@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "title": "Sample data for docling.land",
+    "fields": [
+      "name",
+      "languages",
+      "type",
+      "description"
+    ]
+  },
+  "files": [
+    {
+      "name": "education_in_jaro-text.json",
+      "languages": "Hiligaynon",
+      "type": "text",
+      "description": "Interlinear text transcribed from a YouTube video"
+    },
+    {
+      "name": "hello-lexicon.json",
+      "languages": "Multiple",
+      "type": "lexicon",
+      "description": "A small lexicon with including the phrase “Hello, World!” in multiple writing systems."
+    },
+    {
+      "name": "sample_esperanto-lexicon.json",
+      "languages": "Esperanto",
+      "type": "lexicon",
+      "description": "A small sample lexicon of Esperanto."
+    },
+    {
+      "name": "kolekta_esperanto-lexicon.json",
+      "languages": "Esperanto",
+      "type": "lexicon",
+      "description": "A fairly large (about 9,000 word) lexicon of Esperanto."
+    }
+  ]
+}

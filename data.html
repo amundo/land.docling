@@ -5,6 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Data - docling.land</title>
   <link rel="stylesheet" href="css/land.css">
+  <style>
+
+table {
+  border: 1px solid #efefef;
+}
+table td {
+  padding: .3em;
+}
+table tr:nth-child(odd) td {
+  background: #efefef;
+}
+  </style>
 </head>
 <body>
   <site-header data-title="Sample data"></site-header>
@@ -23,35 +35,12 @@
 Below you will find a sample of data files which will be used in various exercises.
     </p>
 
-    <table>
-      <thead>
-        <tr>
-          <th>File</th>
-          <th>Language</th>
-          <th>Data type</th>
-          <th>Description</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><code><a href="data/education_in_jaro-text.json">education_in_jaro-text.json</a></code></td>
-          <td>Hiligaynon</td>
-          <td><code>text</code></td>
-          <td>Interlinear text transcribed from a YouTube video</td>  
-        </tr>
-        
-        <tr>
-          <td><code>an_esperanto-text.json</code></td>
-          <td>Esperanto</td>
-          <td><code>text</code></td>
-          <td>A file containing some stuff in Esperanto</td>
-        </tr>
-      </tbody>
-    </table>
-  </section>  
+
+  <data-index src="data/data-index.json"></data-index>
   </main>
 
   <script type="module" src="js/docling-land.js"></script>
+  <script type="module" src="data/DataIndex.js"></script>
 <style>
 #tablet {
   overflow-y:hidden;

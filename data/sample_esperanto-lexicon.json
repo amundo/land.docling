@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "title": "20-word Esperanto Lexicon",
+    "source": "Gathered from proverbs on Wikiquote.org",
+    "id": "esperanto_proverbs",
+    "url": "https://en.wikiquote.org/wiki/Esperanto_proverbs",
+    "license": "CC BY-SA 3.0",
+    "language": "Esperanto",
+    "sortKey": "form",
+    "notes": ["Morphological analysis by Patrick Hall"]
+  },
+  "words": [
+    {
+      "form": "akv-o",
+      "gloss": "water-N"
+    },
+    {
+      "form": "al",
+      "gloss": "to"
+    },
+    {
+      "form": "am-o",
+      "gloss": "love-N"
+    },
+    {
+      "form": "ankoraŭ",
+      "gloss": "still"
+    },
+    {
+      "form": "egal-as",
+      "gloss": "equal-PRES"
+    },
+    {
+      "form": "en",
+      "gloss": "in"
+    },
+    {
+      "form": "est-as",
+      "gloss": "to_be-PRES"
+    },
+    {
+      "form": "fort-o-n",
+      "gloss": "strong-N-ACC"
+    },
+    {
+      "form": "instru-u",
+      "gloss": "instruct-INF"
+    },
+    {
+      "form": "kaj",
+      "gloss": "and"
+    },
+    {
+      "form": "kiam",
+      "gloss": "when"
+    },
+    {
+      "form": "komun-e",
+      "gloss": "together-ADV"
+    },
+    {
+      "form": "loĝ-as",
+      "gloss": "reside-PRES"
+    },
+    {
+      "form": "malfeliĉ-o",
+      "gloss": "misfortune-N"
+    },
+    {
+      "form": "manĝ-ot-a",
+      "gloss": "eat-FUT.PASS-ADJ"
+    },
+    {
+      "form": "montr-as",
+      "gloss": "show-PRES"
+    },
+    {
+      "form": "mov-iĝ-as",
+      "gloss": "move-INTR-PRES"
+    },
+    {
+      "form": "pov-as",
+      "gloss": "be_able-PRES"
+    },
+    {
+      "form": "pun-o",
+      "gloss": "punishment-N"
+    },
+    {
+      "form": "river-o",
+      "gloss": "river-N"
+    }
+  ]
+}
