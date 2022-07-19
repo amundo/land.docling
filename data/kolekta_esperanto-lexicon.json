@@ -1,4 +1,12 @@
 {
+  "metadata": {
+    "title": "English-Esperanto Dictionary",
+    "authors": [
+      "J. C. O'Connor, Ph.Dr., M.A.",
+      "C. F. Hayes"
+    ],
+    "url": "https://www.gutenberg.org/files/16967/16967-0.txt"
+  },
   "words": [
     {
       "gloss": "aback, to take; surprise",
@@ -49649,13 +49657,5 @@
       "wordClass": "noun",
       "form": "zuavo"
     }
-  ],
-  "metadata": {
-    "title": "English-Esperanto Dictionary",
-    "authors": [
-      "J. C. O'Connor, Ph.Dr., M.A.",
-      "C. F. Hayes"
-    ],
-    "url": "https://www.gutenberg.org/files/16967/16967-0.txt"
-  }
+  ]
 }
