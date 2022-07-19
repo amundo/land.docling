@@ -16,6 +16,20 @@ table td {
 table tr:nth-child(odd) td {
   background: #efefef;
 }
+
+
+table th:before {
+  content: '▼';
+  opacity: 0;
+}
+
+table th:hover {
+  cursor: pointer;
+}
+
+table th:hover:before {
+  opacity: 1;
+}
   </style>
 </head>
 <body>
