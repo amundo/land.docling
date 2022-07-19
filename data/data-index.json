@@ -28,6 +28,12 @@
       "description": "A small sample lexicon of Esperanto."
     },
     {
+      "name": "sample_esperanto-lexicon.txt",
+      "languages": "Esperanto",
+      "type": "plaintext-lexicon",
+      "description": "Same content as sample_esperanto-lexicon.json, but plaintext."
+    },
+    {
       "name": "kolekta_esperanto-lexicon.json",
       "languages": "Esperanto",
       "type": "lexicon",

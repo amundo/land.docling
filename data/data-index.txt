@@ -18,6 +18,11 @@ Esperanto
 lexicon
 A small sample lexicon of Esperanto.
 
+sample_esperanto-lexicon.txt
+Esperanto
+plaintext-lexicon
+Same content as sample_esperanto-lexicon.json, but plaintext.
+
 kolekta_esperanto-lexicon.json
 Esperanto
 lexicon

@@ -3,7 +3,7 @@ import { walkSync } from "https://deno.land/std@0.148.0/fs/mod.ts";
 
 let readJSONfiles =  () => Array.from(
    walkSync(".", { 
-    exts: ["json"],
+    exts: ["json", "txt"],
   })
 )
 
