@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "title": " Sample data for docling.land",
+    "author": " Patrick Hall"
+  },
+  "terms": [
+    {
+      "term": "browser",
+      "definition": "A program which is responsible for rendering Web content in a usable form. Typically a browser retrieves content from a remote web server."
+    },
+    {
+      "term": "domain name",
+      "definition": "A textual “name” or “address” for an web or internet host. For example, <www.example.com> or <example.com>."
+    },
+    {
+      "term": "GitHub",
+      "definition": "An internet host (github.com) which provides storage and infrastructure for managing software development projects using the Git version-control management system."
+    },
+    {
+      "term": "host",
+      "definition": "A computer which is connected to the Internet. Usually, hosts can be reached via a URL."
+    },
+    {
+      "term": "URL",
+      "definition": "The address of a given file or other resource on a particular host on the internet."
+    }
+  ]
+}

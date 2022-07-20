@@ -2,11 +2,11 @@ export class SiteNav extends HTMLElement {
   constructor(){
     super()
     this.sites = [
-      // ["Lessons", "lessons.html"],
-      ["Skills", "skills.html"],
+      ["Lessons", "/lessons.html"],
+      ["Skills", "/skills.html"],
       // ["Background", "background.html"],
-      ["Data", "data.html"],
-      ["Reference", "reference.html"],
+      ["Data", "/data.html"],
+      ["References", "/references.html"],
 
     ]
     this.innerHTML = `<ol></ol>`
@@ -21,6 +21,7 @@ export class SiteNav extends HTMLElement {
   render(){
     this.sites.forEach(([label, url]) => {
       let a = document.createElement('a')
+
       a.href = url
       a.textContent = label
       let li = document.createElement('li')
@@ -37,3 +38,6 @@ export class SiteNav extends HTMLElement {
 }
 
 customElements.define('site-nav', SiteNav)
+
+
+ 

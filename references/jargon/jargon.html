@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jargon - docling.land</title>
+  <link rel="stylesheet" href="/css/land.css">
+  <style>
+    table {
+      width: 60%;
+    }
+
+    table tr td:first-of-type{
+      width: 20%;
+    }
+
+    table tr:nth-child(odd){
+      background: 
+    }
+    [data-header="term"]{
+      font-weight: bold;
+    }
+
+    sortable-table {
+      display: grid;
+      place-items:center;
+    }
+  </style>
+</head>
+
+<body>
+  <site-header data-title="Jargon"></site-header>
+
+  <main>  
+    <sortable-table src="/references/jargon/jargon.json" headers="term definition"></sortable-table>
+  </main>
+
+<script type="module" src="/js/docling-land.js">
+
+
+</script>
+
+</body>
+</html>
