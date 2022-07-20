@@ -1,35 +1,46 @@
 @import url(colors.css);
 @import url(fonts.css);
 
-
-
 * {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: var(--primary-color-font-family);
+  font-family: var(--primary-font-family);
 }
 
 main {
-  padding: 0 10%;
-
+  display: grid;
+  place-content: center;
 }
 
-body>header {
+site-header {
   background: var(--header-gradient);
   color: whitesmoke;
-  text-shadow: -1px 1px 1px black;
+  /* text-shadow: -1px 1px 1px black; */
   padding: 0 1em;
-  display: flex;
+  display: grid;
+  grid-template: 
+    "home title" auto
+    "nav  nav  " auto
+  / auto  1fr;
   justify-content: space-between;
   align-items: baseline;
 }
 
+site-header h1 {
+  grid-area: home;
+}
+
+site-header title {
+  grid-area: title;
+}
+
 
 site-nav {
-  position: sticky;
+  grid-area: nav;
+  /* position: sticky; */
   top:0;
   border-bottom: 2px solid var(--primary-color);
   background: var(--primary-color);
@@ -47,7 +58,7 @@ site-nav ol  {
 site-nav a {
   color:white;
   text-decoration: none;
-  font-family: PressStart2P;
+  font-family: var(--digitized-font-family);
   text-transform: uppercase;
   padding:1em;
   font-size: x-small;
@@ -66,46 +77,50 @@ site-nav a:first-of-type {
 main h2 {
   border-bottom: 1px solid #333
 }
+
 .handwritten {
-  font-family: Pecita;
+  font-family: var(--handwriting-font-family);
   font-size: 2rem;
 }
 
-body > header h1 .handwritten {
+.digitized {
+  font-family: var(--digitized-font-family);
+  font-size: 1rem;
+}
+
+
+site-header h1 .handwritten {
   font-size: 4rem;
   transform: rotate(-8deg);
   display: inline-block;
 }
 
-body > header h1 a {
+site-header h1 a {
   text-decoration: none;
   color: white;
 }
 
-.digitized {
-  font-family: PressStart2P;
-  font-size: 1rem;
+
+
+site-header h1:hover {
+  background-image:radial-gradient(lemonchiffon , transparent 65%);
 }
 
-body > header h1 .digitized {
+
+site-header h1 .digitized {
   color:limegreen;
   text-transform: uppercase;
   font-size: 1.5rem;
 }
 
-body > header h2 {
-  width: 20em;
-  text-align:right;
+site-header h2 {
+  justify-self: end;
   margin:0;
 }
 
 main>header,
 main>section {
   padding: 1em;
-}
-
-#site-section-outline {
-  border-top: 4px solid var(--primary-color-color);
 }
 
 dl {
@@ -217,9 +232,54 @@ lesson-index main {
   background:hsl(0, 65.3%, 37.3%);
   margin:0;
 }
-#lessons time .day {
 
+#lessons time .day {
   font-size:x-large;
   font-weight: bold;
 }
 
+figure {
+  margin-left: 4em;
+  background: 
+}
+
+
+figure figcaption {
+  text-align:center;
+  font-family: var(--primary-font-family);
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+sortable-table table {
+  border: 1px solid #efefef;
+}
+
+sortable-table table td {
+  padding: .3em;
+}
+
+sortable-table table tr:nth-child(odd) td {
+  background: #efefef;
+}
+
+
+
+sortable-table table th:before {
+  content: '▼';
+  opacity: 0;
+}
+
+
+sortable-table table th:hover {
+  cursor: pointer;
+}
+
+
+sortable-table table th:hover:before {
+  opacity: 1;
+}
