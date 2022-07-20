@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sortable-table</title>
+</head>
+<body>
+
+  <sortable-table id=src src="/data/sample_esperanto-lexicon.json"></sortable-table>
+
+  <sortable-table id=src src="/data/sample_esperanto-lexicon.json" headers="form"></sortable-table>
+
+  <sortable-table id=src src="/data/data-index.json" ></sortable-table>  
+
+  <sortable-table id="byjs"></sortable-table>
+
+  <script type="module">
+    import {SortableTable} from './SortableTable.js'
+
+    byjs.data = {
+      metadata: { title: "adding data by js"},
+      iceCreams: [
+      {cost: "cheap", flavor: "rockyroad"},
+      {cost: "cheap", flavor: "mintchip"},
+      {cost: "expensive", flavor: "wtf"},
+    ]
+    }
+    
+  </script>
+</body>
+</html>

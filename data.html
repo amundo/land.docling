@@ -4,33 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Data - docling.land</title>
-  <link rel="stylesheet" href="css/land.css">
-  <style>
-
-table {
-  border: 1px solid #efefef;
-}
-table td {
-  padding: .3em;
-}
-table tr:nth-child(odd) td {
-  background: #efefef;
-}
-
-
-table th:before {
-  content: '▼';
-  opacity: 0;
-}
-
-table th:hover {
-  cursor: pointer;
-}
-
-table th:hover:before {
-  opacity: 1;
-}
-  </style>
+  <link rel="stylesheet" href="/css/land.css">
 </head>
 <body>
   <site-header data-title="Sample data"></site-header>
@@ -50,11 +24,10 @@ Below you will find a sample of data files which will be used in various exercis
     </p>
 
 
-  <data-index src="data/data-index.json"></data-index>
+  <sortable-table headers="name languages  type description" src="data/data-index.json"></sortable-table>
   </main>
 
   <script type="module" src="js/docling-land.js"></script>
-  <script type="module" src="data/DataIndex.js"></script>
 <style>
 #tablet {
   overflow-y:hidden;
