@@ -12,6 +12,4 @@
   --primary-color-color: linear-gradient(var(--primary-color) 10%, var(--secondary-color));
 
   --header-gradient: linear-gradient(65deg, var(--primary-color), var(--secondary-color));
-  
-  --primary-color-font-family: Fira Sans;
 }
