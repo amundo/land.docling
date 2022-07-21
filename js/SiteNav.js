@@ -2,7 +2,7 @@ export class SiteNav extends HTMLElement {
   constructor(){
     super()
     this.sites = [
-      ["Lessons", "/lessons.html"],
+      ["Lessons", "/_index.html"],
       ["Skills", "/skills.html"],
       // ["Background", "background.html"],
       ["Data", "/data.html"],

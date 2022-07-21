@@ -5,20 +5,20 @@ In Lesson 1, you were asked to load a `.txt` file called `sample_esperanto.txt`.
 That content should look like this:
 
 <figure>
-<img src=sample_esperanto-lexicon-txt-screenshot.png>
-<figcaption>A screenshot of the file sample_esperanto-lexicon.txt, showing correctly rendered text.</figcaption>
+<img src=esperanto_sample-lexicon.txt-screenshot.png>
+<figcaption>A screenshot of the file esperanto_sample-lexicon.txt, showing correctly rendered text.</figcaption>
 </figure>
 
 Is that what you saw? Depending on a variety of circumstances (including the browser you’re using, its configuration, and the configuration of the server which is serving the content), you may see a display that looks more like this:
 
 <figure>
-<img src=sample_esperanto-lexicon-txt-screenshot-misrendered.png>
-<figcaption>A screenshot of the file sample_esperanto-lexicon.txt, showing misencoded data.</figcaption>
+<img src=esperanto_sample-lexicon.txt-screenshot-misrendered.png>
+<figcaption>A screenshot of the file esperanto_sample-lexicon.txt, showing misencoded data.</figcaption>
 </figure>
 
 Note that the problem here is _not_ a corrupted file; what is happening is that the browser is “decoding” the content of the file incorrectly.
 
-<a download=sample_esperanto-lexicon.txt href=/data/sample_esperanto-lexicon.txt>/data/sample_esperanto-lexicon.txt</a>
+<a download=esperanto_sample-lexicon.txt href=/data/esperanto_sample-lexicon.txt>/data/esperanto_sample-lexicon.txt</a>
 
 
 ## Ensuring Unicode in `HTML` files

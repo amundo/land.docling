@@ -3,7 +3,7 @@ export class SiteHeader extends HTMLElement {
     super()
     this.innerHTML = `
     <h1>
-      <a href="/lessons.html">
+      <a href="/_index.html">
         <span class="handwritten">docling</span><span class="digitized">.land</span>
       </a>
     </h1>
