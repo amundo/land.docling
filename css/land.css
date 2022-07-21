@@ -12,6 +12,7 @@ body {
 
 main {
   display: grid;
+  padding:1em;
   place-content: center;
 }
 

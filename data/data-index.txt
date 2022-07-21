@@ -23,6 +23,12 @@ Esperanto
 plaintext-lexicon
 Same content as sample_esperanto-lexicon.json, but plaintext.
 
+
+esperanto_one_to_ten-lexicon.json
+Esperanto
+lexicon
+A tiny lexicon of number words in Esperanto.
+
 kolekta_esperanto-lexicon.json
 Esperanto
 lexicon

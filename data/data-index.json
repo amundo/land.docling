@@ -34,6 +34,12 @@
       "description": "Same content as sample_esperanto-lexicon.json, but plaintext."
     },
     {
+      "name": "esperanto_one_to_ten-lexicon.json",
+      "languages": "Esperanto",
+      "type": "lexicon",
+      "description": "A tiny lexicon of number words in Esperanto."
+    },
+    {
       "name": "kolekta_esperanto-lexicon.json",
       "languages": "Esperanto",
       "type": "lexicon",
