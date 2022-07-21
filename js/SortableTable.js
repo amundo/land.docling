@@ -64,6 +64,13 @@ export class SortableTable extends HTMLElement {
     this.render()
   }
 
+  isProbablyAPath(path){
+    return `.txt .json .html .css`.split` `.some(suffix => path.endsWith(suffix)) ||
+      path.startsWith('http:') ||
+      path.startsWith('/') ||
+      path.startsWith('./')
+  }
+
   render(){
     let table = this.querySelector('table')
 
@@ -91,7 +98,7 @@ export class SortableTable extends HTMLElement {
 
         let value = item[header]
 
-        if(value.startsWith('http', '/')){
+        if(this.isProbablyAPath(value)){
           td.innerHTML = `<a href="/data/${item[header]}">${item[header]}</a>`
         } else {
           td.innerHTML = item[header]

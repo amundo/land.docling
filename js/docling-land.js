@@ -1,7 +1,7 @@
 export {SiteNav} from './SiteNav.js'
 export {LessonIndex} from '../lessons/LessonIndex.js'
-export {SiteHeader} from '../js/SiteHeader.js'
-export {IncludePRE} from '../js/IncludePRE.js'
-export {SortableTable} from '../js/SortableTable.js'
+export {SiteHeader} from './SiteHeader.js'
+export {IncludePRE} from './IncludePRE.js'
+export {SortableTable} from './SortableTable.js'
 
-export {MarkdownBlock, MarkdownSpan, MarkdownElement} from "/js/md-block.js";
+export {MarkdownBlock, MarkdownSpan, MarkdownElement} from "./md-block.js";
