@@ -13,23 +13,22 @@ Multiple
 lexicon
 A small lexicon with including the phrase “Hello, World!” in multiple writing systems.
 
-sample_esperanto-lexicon.json
+esperanto_sample-lexicon.json
 Esperanto
 lexicon
 A small sample lexicon of Esperanto.
 
-sample_esperanto-lexicon.txt
+esperanto_sample-lexicon.txt
 Esperanto
 plaintext-lexicon
 Same content as sample_esperanto-lexicon.json, but plaintext.
 
-
-esperanto_one_to_ten-lexicon.json
+esperanto_number-lexicon.json
 Esperanto
 lexicon
-A tiny lexicon of number words in Esperanto.
+A medium lexicon of number words in Esperanto.
 
-kolekta_esperanto-lexicon.json
+esperanto_kolekta-lexicon.json
 Esperanto
 lexicon
 A fairly large (about 9,000 word) lexicon of Esperanto.

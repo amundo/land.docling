@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "title": "Esperanto Number Lexicon",
+    "source": "Lernu.net Grammar",
+    "url": "https://lernu.net/gramatiko/nombraj_vortoj"
+  },
+  "words": [
+    {
+      "form": "nul",
+      "gloss": "0"
+    },
+    {
+      "form": "unu",
+      "gloss": "1"
+    },
+    {
+      "form": "du",
+      "gloss": "2"
+    },
+    {
+      "form": "tri",
+      "gloss": "3"
+    },
+    {
+      "form": "kvar",
+      "gloss": "4"
+    },
+    {
+      "form": "kvin",
+      "gloss": "5"
+    },
+    {
+      "form": "ses",
+      "gloss": "6"
+    },
+    {
+      "form": "sep",
+      "gloss": "7"
+    },
+    {
+      "form": "ok",
+      "gloss": "8"
+    },
+    {
+      "form": "naŭ",
+      "gloss": "9"
+    },
+    {
+      "form": "dek",
+      "gloss": "10"
+    },
+    {
+      "form": "cent",
+      "gloss": "100"
+    },
+    {
+      "form": "mil",
+      "gloss": "1000"
+    },
+    {
+      "form": "11",
+      "gloss": "dek unu"
+    },
+    {
+      "form": "12",
+      "gloss": "dek du"
+    },
+    {
+      "form": "13",
+      "gloss": "dek tri"
+    },
+    {
+      "form": "14",
+      "gloss": "dek kvar"
+    },
+    {
+      "form": "15",
+      "gloss": "dek kvin"
+    },
+    {
+      "form": "16",
+      "gloss": "dek ses"
+    },
+    {
+      "form": "17",
+      "gloss": "dek sep"
+    },
+    {
+      "form": "18",
+      "gloss": "dek ok"
+    },
+    {
+      "form": "19",
+      "gloss": "dek naŭ"
+    },
+    {
+      "form": "20",
+      "gloss": "dudek"
+    },
+    {
+      "form": "21",
+      "gloss": "dudek unu"
+    },
+    {
+      "form": "22",
+      "gloss": "dudek du"
+    },
+    {
+      "form": "23",
+      "gloss": "dudek tri"
+    },
+    {
+      "form": "30",
+      "gloss": "tridek"
+    },
+    {
+      "form": "40",
+      "gloss": "kvardek"
+    },
+    {
+      "form": "50",
+      "gloss": "kvindek"
+    },
+    {
+      "form": "60",
+      "gloss": "sesdek"
+    },
+    {
+      "form": "70",
+      "gloss": "sepdek"
+    },
+    {
+      "form": "80",
+      "gloss": "okdek"
+    },
+    {
+      "form": "90",
+      "gloss": "naŭdek"
+    },
+    {
+      "form": "100",
+      "gloss": "cent"
+    },
+    {
+      "form": "101",
+      "gloss": "cent unu"
+    },
+    {
+      "form": "110",
+      "gloss": "cent dek"
+    },
+    {
+      "form": "111",
+      "gloss": "cent dek unu"
+    },
+    {
+      "form": "200",
+      "gloss": "ducent"
+    },
+    {
+      "form": "232",
+      "gloss": "ducent tridek du"
+    },
+    {
+      "form": "300",
+      "gloss": "tricent"
+    },
+    {
+      "form": "400",
+      "gloss": "kvarcent"
+    },
+    {
+      "form": "500",
+      "gloss": "kvincent"
+    },
+    {
+      "form": "600",
+      "gloss": "sescent"
+    },
+    {
+      "form": "700",
+      "gloss": "sepcent"
+    },
+    {
+      "form": "800",
+      "gloss": "okcent"
+    },
+    {
+      "form": "900",
+      "gloss": "naŭcent"
+    },
+    {
+      "form": "1000",
+      "gloss": "mil"
+    },
+    {
+      "form": "1001",
+      "gloss": "mil unu"
+    },
+    {
+      "form": "1011",
+      "gloss": "mil dek unu"
+    },
+    {
+      "form": "1111",
+      "gloss": "mil cent dek unu"
+    },
+    {
+      "form": "1234",
+      "gloss": "mil ducent tridek kvar"
+    },
+    {
+      "form": "2000",
+      "gloss": "du mil"
+    },
+    {
+      "form": "2678",
+      "gloss": "du mil sescent sepdek ok"
+    },
+    {
+      "form": "3000",
+      "gloss": "tri mil"
+    },
+    {
+      "form": "4000",
+      "gloss": "kvar mil"
+    },
+    {
+      "form": "5000",
+      "gloss": "kvin mil"
+    },
+    {
+      "form": "6000",
+      "gloss": "ses mil"
+    },
+    {
+      "form": "7000",
+      "gloss": "sep mil"
+    },
+    {
+      "form": "8000",
+      "gloss": "ok mil"
+    },
+    {
+      "form": "9000",
+      "gloss": "naŭ mil"
+    },
+    {
+      "form": "10000",
+      "gloss": "dek mil"
+    },
+    {
+      "form": "11000",
+      "gloss": "dek unu mil"
+    },
+    {
+      "form": "12000",
+      "gloss": "dek du mil"
+    },
+    {
+      "form": "20000",
+      "gloss": "dudek mil"
+    },
+    {
+      "form": "30000",
+      "gloss": "tridek mil"
+    },
+    {
+      "form": "42000",
+      "gloss": "kvardek du mil"
+    },
+    {
+      "form": "999000",
+      "gloss": "naŭcent naŭdek naŭ mil"
+    },
+    {
+      "form": "999999",
+      "gloss": "naŭcent naŭdek naŭ mil naŭcent naŭdek naŭ"
+    }
+  ]
+}

@@ -22,25 +22,25 @@
       "description": "A small lexicon with including the phrase “Hello, World!” in multiple writing systems."
     },
     {
-      "name": "sample_esperanto-lexicon.json",
+      "name": "esperanto_sample-lexicon.json",
       "languages": "Esperanto",
       "type": "lexicon",
       "description": "A small sample lexicon of Esperanto."
     },
     {
-      "name": "sample_esperanto-lexicon.txt",
+      "name": "esperanto_sample-lexicon.txt",
       "languages": "Esperanto",
       "type": "plaintext-lexicon",
       "description": "Same content as sample_esperanto-lexicon.json, but plaintext."
     },
     {
-      "name": "esperanto_one_to_ten-lexicon.json",
+      "name": "esperanto_number-lexicon.json",
       "languages": "Esperanto",
       "type": "lexicon",
-      "description": "A tiny lexicon of number words in Esperanto."
+      "description": "A medium lexicon of number words in Esperanto."
     },
     {
-      "name": "kolekta_esperanto-lexicon.json",
+      "name": "esperanto_kolekta-lexicon.json",
       "languages": "Esperanto",
       "type": "lexicon",
       "description": "A fairly large (about 9,000 word) lexicon of Esperanto."

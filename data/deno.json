@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "generate-data-index": "deno run --allow-read --allow-write generate-data-index.js"
+    "regenerate": "deno run --allow-read --allow-write generate-data-index.js"
   }
 }
