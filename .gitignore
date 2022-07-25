@@ -3,3 +3,4 @@ lib/jszip/test/
 local/
 deploy-exclude.txt
 deploy.sh
+.DS_Store
