@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>docling land style guide</title>
+  <style>
+
+
+@import url(land.css);
+
+    * {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100vh;
+  display: grid;
+}
+
+body {
+  margin: 0;
+  background: var(--header-gradient);
+  color:white;
+  display: grid;
+  gap: 1em;
+  grid-template: " header header " auto 
+     "aside main " 1fr
+    / auto  1fr;
+}
+
+body > header {
+  grid-area: header;
+}
+
+body > * {
+  padding: 1em;
+}
+body > aside {
+  grid-area: aside;
+}
+
+body > main {
+  grid-area: main;
+}
+
+
+
+
+main {
+  background: white;
+}
+
+  
+  </style>
+</head>
+<body>
+  <header>
+    <h1>docling.land style guide</h1>  
+    <p>This document contains samples of styled components and other <code>CSS</code> used on <code>docling.land</code>.</p>
+  </header>
+
+<aside>
+
+</aside>
+
+<main>
+  <section>
+    <h2>Layouts</h2>
+    <h3>full-height</h3>
+    <p>A full-height layout fills the viewport vertically.</p>
+    <h3>mobile</h3>
+  </section>
+
+  <section>
+    <h2>Figures</h2>
+    <h3>full-width</h3>
+    <h3>vertical</h3>
+  </section>
+
+  <section>
+    <h2>Typography</h2>
+    <h3>CSS variables</h3>
+    <h3>Font-size</h3>
+    <h3>Font-family</h3>
+    <h3></h3>
+  </section>
+</main>
+
+
+<script type="module">
+let outline = Array.from(document.querySelectorAll('section'))
+  .reduce((tree,section) => {
+    let li = document.createElement('li')
+    let h2 = section.querySelector('h2')
+    li.textContent = h2.textContent
+    tree.append(li)
+
+    let h3s = Array.from(section.querySelectorAll('h3'))
+    let subtree = h3s.reduce((subtree, h3) => {
+      let li = document.createElement('li')
+      li.textContent = h3.textContent
+      subtree.append(li)
+      return subtree
+    }, document.createElement('ul'))
+    
+    tree.append(subtree)
+
+    return tree
+  }, document.createElement('ul'))
+
+document.querySelector('aside').append(outline)
+</script>
+</body>
+</html>
