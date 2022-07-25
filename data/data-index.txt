@@ -32,3 +32,4 @@ esperanto_kolekta-lexicon.json
 Esperanto
 lexicon
 A fairly large (about 9,000 word) lexicon of Esperanto.
+

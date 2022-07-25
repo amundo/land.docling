@@ -1,0 +1,46 @@
+{
+  "title": "Cuneiform tablet: Urra=hubullu, tablet 13, bilingual vocabulary of domestic animals",
+  "languages": [
+    "Sumerian",
+    "Akkadian"
+  ],
+  "links": [
+    {
+      "type": "photograph",
+      "url": "urra_hubullu_13ob-photo-transparent.png",
+      "metadata": {
+        "source": "New York Metropolitan Museum of Art",
+        "href": "https://www.metmuseum.org/art/collection/search/321714",
+        "license": "Public Domain",
+        "details": {
+          "Title": "Cuneiform tablet",
+          "Date": "ca. late 1st millennium B.C.",
+          "Geography": "Mesopotamia",
+          "Medium": "Clay",
+          "Dimensions": "5 1/4 x 2 3/4 x 1 5/8 in. (13.3 x 7.1 x 4.1 cm)",
+          "Credit Line": "Purchase, 1886",
+          "Accession Number": "86.11.121"
+        }
+      }
+    },
+    {
+      "type": "drawing",
+      "url": "urra_hubullu_13ob-drawn.jpg",
+      "metadata": {
+        "source": "New York Metropolitan Museum of Art",
+        "href": "https://www.metmuseum.org/art/collection/search/321714",
+        "license": "Public Domain",
+        "details": {
+          "Title": "Cuneiform tablet",
+          "Date": "ca. late 1st millennium B.C.",
+          "Geography": "Mesopotamia",
+          "Medium": "Clay",
+          "Dimensions": "5 1/4 x 2 3/4 x 1 5/8 in. (13.3 x 7.1 x 4.1 cm)",
+          "Credit Line": "Purchase, 1886",
+          "Accession Number": "86.11.121"
+        }
+      }
+    }
+
+  ]
+}
