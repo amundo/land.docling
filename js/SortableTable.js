@@ -90,6 +90,7 @@ export class SortableTable extends HTMLElement {
 
     let items = this[this.name]
 
+
     items.forEach(item => { 
       let tr = document.createElement('tr')
     
