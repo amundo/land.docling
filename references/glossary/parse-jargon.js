@@ -1,4 +1,4 @@
-let content = Deno.readTextFileSync('jargon.txt')
+let content = Deno.readTextFileSync('glossary.txt')
 
 let [metadata, ...chunks] = content.split('\n\n')
 
@@ -26,5 +26,5 @@ let collator = new Intl.Collator('en', {sensitivity: 'base' })
 
 terms = terms.sort((a,b) => collator.compare(a.term, b.term))
 
-Deno.writeTextFileSync('jargon.json', JSON.stringify({ metadata, terms},null,2))
+Deno.writeTextFileSync('glossary.json', JSON.stringify({ metadata, terms},null,2))
 

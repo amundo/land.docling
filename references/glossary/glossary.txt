@@ -16,5 +16,10 @@ domain name
 A textual “name” or “address” for an web or internet host. For example, <www.example.com> or <example.com>.
 
 browser
-A program which is responsible for rendering Web content in a usable form. Typically a browser retrieves content from a remote web server.
+Also, web browser. A program which is responsible for rendering Web content in a usable form. Typically a browser retrieves content from a remote web server.
 
+CSS
+Cascading Style Sheets — the web platform’s language for defining presentation of HTML documents.
+
+HTML
+Hypertext Markup Language — a markup language used to create documents which can be presented by a web browser.
