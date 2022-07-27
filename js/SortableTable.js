@@ -52,7 +52,7 @@ export class SortableTable extends HTMLElement {
 
   sort(header){
     if(!header){
-      header = this.headers[0] || this.getAttribute('sort-by') || Object.keys(this[this.name][0])[0]
+      header = (this.headers && this.headers[0]) || this.getAttribute('sort-by') || Object.keys(this[this.name][0])[0]
     }
     let items = this[this.name].slice()
 
@@ -65,10 +65,14 @@ export class SortableTable extends HTMLElement {
   }
 
   isProbablyAPath(path){
-    return `.txt .json .html .css`.split` `.some(suffix => path.endsWith(suffix)) ||
-      path.startsWith('http:') ||
-      path.startsWith('/') ||
-      path.startsWith('./')
+    if(typeof path == 'string'){ 
+      return ([ ".txt", ".json", ".html", ".css"].some(suffix => path.endsWith(suffix))) ||
+        path.startsWith('http:') ||
+        path.startsWith('/') ||
+        path.startsWith('./')
+    } else {
+      return false
+    }
   }
 
   render(){
@@ -99,7 +103,7 @@ export class SortableTable extends HTMLElement {
 
         let value = item[header]
 
-        if(this.isProbablyAPath(value)){
+        if(typeof value == 'string' && this.isProbablyAPath(value)){ 
           td.innerHTML = `<a href="/data/${item[header]}">${item[header]}</a>`
         } else {
           td.innerHTML = item[header]

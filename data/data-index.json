@@ -1,49 +1,56 @@
 {
   "metadata": {
     "title": "Sample data for docling.land",
-    "fields": [
-      "name",
-      "languages",
-      "type",
-      "description"
-    ]
+    "generatedBy": "generate-data-index.js"
   },
-  "files": [
+  "summaries": [
     {
-      "name": "education_in_jaro-text.json",
-      "languages": "Hiligaynon",
       "type": "text",
-      "description": "Interlinear text transcribed from a YouTube video"
+      "title": "Education in Jaro",
+      "languages": [
+        "Hiligaynon",
+        "English"
+      ],
+      "description": "Interlinear text transcribed from a YouTube video.",
+      "path": "education_in_jaro-text.json"
     },
     {
-      "name": "hello-lexicon.json",
-      "languages": "Multiple",
       "type": "lexicon",
-      "description": "A small lexicon with including the phrase “Hello, World!” in multiple writing systems."
+      "title": "‘Hello, World!’ in various languages.",
+      "languages": [
+        "Miscellaneous"
+      ],
+      "description": "A small lexicon with including the phrase “Hello, World!” in multiple writing systems.",
+      "path": "hello-lexicon.json"
     },
     {
-      "name": "esperanto_sample-lexicon.json",
-      "languages": "Esperanto",
       "type": "lexicon",
-      "description": "A small sample lexicon of Esperanto."
+      "title": "20-word Esperanto Lexicon",
+      "languages": [
+        "Esperanto",
+        "English"
+      ],
+      "path": "esperanto_sample-lexicon.json"
     },
     {
-      "name": "esperanto_sample-lexicon.txt",
-      "languages": "Esperanto",
-      "type": "plaintext-lexicon",
-      "description": "Same content as sample_esperanto-lexicon.json, but plaintext."
-    },
-    {
-      "name": "esperanto_number-lexicon.json",
-      "languages": "Esperanto",
       "type": "lexicon",
-      "description": "A medium lexicon of number words in Esperanto."
+      "title": "Esperanto Number Lexicon",
+      "languages": [
+        "Esperanto",
+        "English"
+      ],
+      "description": "A medium-sized lexicon of number words in Esperanto.",
+      "path": "esperanto_number-lexicon.json"
     },
     {
-      "name": "esperanto_kolekta-lexicon.json",
-      "languages": "Esperanto",
       "type": "lexicon",
-      "description": "A fairly large (about 9,000 word) lexicon of Esperanto."
+      "title": "English-Esperanto Dictionary",
+      "languages": [
+        "Esperanto",
+        "English"
+      ],
+      "description": "A fairly large (about 9,000 word) lexicon of Esperanto.",
+      "path": "esperanto_kolekta-lexicon.json"
     }
   ]
 }

@@ -1,6 +1,8 @@
 {
   "metadata": {
     "title": "Esperanto Number Lexicon",
+    "languages": ["Esperanto", "English"],
+    "description": "A medium-sized lexicon of number words in Esperanto.",
     "source": "Lernu.net Grammar",
     "url": "https://lernu.net/gramatiko/nombraj_vortoj"
   },

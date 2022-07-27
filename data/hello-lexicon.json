@@ -1,6 +1,8 @@
 {
   "metadata": {
-    "title": "‘Hello, World!’ in various languages."
+    "title": "‘Hello, World!’ in various languages.",
+    "languages": ["Miscellaneous"],
+    "description": "A small lexicon with including the phrase “Hello, World!” in multiple writing systems."
   },
   "words": [
     {
@@ -10,7 +12,7 @@
         "language": "German"
       }
     },
-    {
+  {
       "form": "你好，世界！",
       "gloss": "Hello, World!",
       "metadata": {

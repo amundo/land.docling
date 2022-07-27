@@ -3,6 +3,7 @@
     "title": "20-word Esperanto Lexicon",
     "source": "Gathered from proverbs on Wikiquote.org",
     "id": "esperanto_proverbs",
+    "languages": ["Esperanto", "English"],
     "url": "https://en.wikiquote.org/wiki/Esperanto_proverbs",
     "license": "CC BY-SA 3.0",
     "language": "Esperanto",

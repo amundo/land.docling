@@ -1,35 +1,5 @@
-name
-languages
-type
-description
-
 education_in_jaro-text.json
-Hiligaynon
-text
-Interlinear text transcribed from a YouTube video
-
 hello-lexicon.json
-Multiple
-lexicon
-A small lexicon with including the phrase “Hello, World!” in multiple writing systems.
-
 esperanto_sample-lexicon.json
-Esperanto
-lexicon
-A small sample lexicon of Esperanto.
-
-esperanto_sample-lexicon.txt
-Esperanto
-plaintext-lexicon
-Same content as sample_esperanto-lexicon.json, but plaintext.
-
 esperanto_number-lexicon.json
-Esperanto
-lexicon
-A medium lexicon of number words in Esperanto.
-
 esperanto_kolekta-lexicon.json
-Esperanto
-lexicon
-A fairly large (about 9,000 word) lexicon of Esperanto.
-

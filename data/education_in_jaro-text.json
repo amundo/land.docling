@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Education in Jaro",
-    "language": "Hiligaynon",
+    "description": "Interlinear text transcribed from a YouTube video.",
+    "languages": ["Hiligaynon" ,"English"],
     "source": "https://www.youtube.com/watch?v=cUqMWG4QJMk",
     "media": "education_in_jaro.webm",
     "fileName": "education_in_jaro-text.json",

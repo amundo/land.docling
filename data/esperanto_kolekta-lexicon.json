@@ -1,6 +1,8 @@
 {
   "metadata": {
     "title": "English-Esperanto Dictionary",
+    "languages": ["Esperanto", "English"],
+    "description": "A fairly large (about 9,000 word) lexicon of Esperanto.",
     "authors": [
       "J. C. O'Connor, Ph.Dr., M.A.",
       "C. F. Hayes"
