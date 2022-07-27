@@ -1,80 +1,90 @@
-[
-  {
-    "title": "Developing in the web platform: A web lexicon",
-    "date": "2022-09-01",
-    "description": "In this lesson, we take a whirlwind tour of of the development of a web platform application: a usable web lexicon. You will see how the four major “languages” of the web platform — HTML, CSS, JSON, and Javascript — combine to create a flexible development and publication environment.",
-    "id": "developing-in-the-web-platform"
+{
+  "metadata": {
+    "title": "Lessons in Documentation Design",
+    "generatedWith": "edit-lessons.html",
+    "notes": [
+      "This file is generated in edit-lessons.html and also stored in localStorage.lessons. Kind of a mess."
+    ]
+
   },
-  {
-    "title": "A Digital Boasian Trilogy: Granular Documentary Data",
-    "date": "2022-09-08",
-    "description": "The traditional “Boasian Trilogy” remains a good basic data model for docuemntation. But to be useful, data must be fully labeled and consistently structured. We will refer to such data as “granular”. Fieldwork (as opposed to archiving) imposes special constraints on managing granular data.",
-    "id": "a-digital-boasian-trilogy"
-  },
-  {
-    "title": "Documentation and Markup",
-    "date": "2022-09-15",
-    "description": "We consider more markup patterns for encoding structured representations of documentary data: texts, metadata, orthographic and paradigmatic tables, and more. ",
-    "id": "documentation-and-markup"
-  },
-  {
-    "title": "Accessibility and Universality",
-    "date": "2022-09-22",
-    "description": "One of the outstanding features of the web platform is its universality. Rather than think of “disabilities”, we consider documents and applications in terms of accessibility: what usage patterns and audiences do particular imlementations support? We aim to make our documents accessible to all, and our applications as accessible as possible.",
-    "id": "accessibility-and-universality"
-  },
-  {
-    "title": "The DOM and Javascript",
-    "date": "2022-09-29",
-    "description": "One of the most powerful features of the web platform is the Document Object Model: a programming abstraction which represents the content of an HTML document as a tree structure. The DOM tree is the basis for interactivity in the web. We will take a look at how the DOM can be used to associate interfaces and documentary data.",
-    "id": "the-dom-and-javascript"
-  },
-  {
-    "title": "Dataflows and Workflows",
-    "date": "2022-10-06",
-    "description": "How can we specify how linguists, and especially fieldworkers, manage information in their work? In this lesson we describe a simple but formal means of specifying 1) changes in data state (“dataflows”) and 2) user interface operations that carry out that change in data state (“workflows”).",
-    "id": "dataflows-and-workflows"
-  },
-  {
-    "title": "Web Components",
-    "date": "2022-10-13",
-    "description": "If you consider the built-in video tag, you will realize that it is a combination of content, display styles, and interactive functionality. The Web Component standard (especially “Custom Elements”) defines how to create new HTML tags with content, styles, and interactivity. The docling.js library defines custom elements which are specific to language documentation.",
-    "id": "web-components"
-  },
-  {
-    "title": "Designing Interfaces: Paper prototyping",
-    "date": "2022-10-27",
-    "description": "It is important to realize that software design is not just “coding”: there can be no coding without a well-defined user interface. In this lesson we practice the skill of 1) defining a dataflow and workflow and 2) prototyping user interfaces for carrying them out.",
-    "id": "designing-interfaces"
-  },
-  {
-    "title": "Search and Javascript array methods",
-    "date": "2022-11-03",
-    "description": "This lesson focuses on one specific kind of Javascript programming: filtering data with simple “predicate functions”. Structured data is all well and good, but as it grows in size, search functionality becomes obligatory. Here we study a handful of “array methods” which can serve as the basis for simple but power search functionality.",
-    "id": "search-and-javascript-array-methods"
-  },
-  {
-    "title": "Workshopping Interface designs I",
-    "date": "2022-11-10",
-    "description": "Paper prototyping a documentary workflow",
-    "id": "workshopping-interface-designs-i"
-  },
-  {
-    "title": "Planning projects",
-    "date": "2022-11-17",
-    "description": "Discussions of small projects",
-    "id": "planning-projects"
-  },
-  {
-    "title": "Presentations",
-    "date": "2022-12-01",
-    "description": "",
-    "id": "presentations"
-  },
-  {
-    "title": "Presentations",
-    "date": "2022-12-08",
-    "description": "",
-    "id": "presentations"
-  }
-]
+  "lessons": [
+    {
+      "title": "Developing in the web platform: A web lexicon",
+      "date": "2022-09-01",
+      "description": "In this lesson, we take a whirlwind tour of of the development of a web platform application: a usable web lexicon. You will see how the four major “languages” of the web platform — HTML, CSS, JSON, and Javascript — combine to create a flexible development and publication environment.",
+      "id": "developing-in-the-web-platform"
+    },
+    {
+      "title": "A Digital Boasian Trilogy: Granular Documentary Data",
+      "date": "2022-09-08",
+      "description": "The traditional “Boasian Trilogy” remains a good basic data model for docuemntation. But to be useful, data must be fully labeled and consistently structured. We will refer to such data as “granular”. Fieldwork (as opposed to archiving) imposes special constraints on managing granular data.",
+      "id": "a-digital-boasian-trilogy"
+    },
+    {
+      "title": "Documentation and Markup",
+      "date": "2022-09-15",
+      "description": "We consider more markup patterns for encoding structured representations of documentary data: texts, metadata, orthographic and paradigmatic tables, and more. ",
+      "id": "documentation-and-markup"
+    },
+    {
+      "title": "Accessibility and Universality",
+      "date": "2022-09-22",
+      "description": "One of the outstanding features of the web platform is its universality. Rather than think of “disabilities”, we consider documents and applications in terms of accessibility: what usage patterns and audiences do particular imlementations support? We aim to make our documents accessible to all, and our applications as accessible as possible.",
+      "id": "accessibility-and-universality"
+    },
+    {
+      "title": "The DOM and Javascript",
+      "date": "2022-09-29",
+      "description": "One of the most powerful features of the web platform is the Document Object Model: a programming abstraction which represents the content of an HTML document as a tree structure. The DOM tree is the basis for interactivity in the web. We will take a look at how the DOM can be used to associate interfaces and documentary data.",
+      "id": "the-dom-and-javascript"
+    },
+    {
+      "title": "Dataflows and Workflows",
+      "date": "2022-10-06",
+      "description": "How can we specify how linguists, and especially fieldworkers, manage information in their work? In this lesson we describe a simple but formal means of specifying 1) changes in data state (“dataflows”) and 2) user interface operations that carry out that change in data state (“workflows”).",
+      "id": "dataflows-and-workflows"
+    },
+    {
+      "title": "Web Components",
+      "date": "2022-10-13",
+      "description": "If you consider the built-in video tag, you will realize that it is a combination of content, display styles, and interactive functionality. The Web Component standard (especially “Custom Elements”) defines how to create new HTML tags with content, styles, and interactivity. The docling.js library defines custom elements which are specific to language documentation.",
+      "id": "web-components"
+    },
+    {
+      "title": "Designing Interfaces: Paper prototyping",
+      "date": "2022-10-27",
+      "description": "It is important to realize that software design is not just “coding”: there can be no coding without a well-defined user interface. In this lesson we practice the skill of 1) defining a dataflow and workflow and 2) prototyping user interfaces for carrying them out.",
+      "id": "designing-interfaces"
+    },
+    {
+      "title": "Search and Javascript array methods",
+      "date": "2022-11-03",
+      "description": "This lesson focuses on one specific kind of Javascript programming: filtering data with simple “predicate functions”. Structured data is all well and good, but as it grows in size, search functionality becomes obligatory. Here we study a handful of “array methods” which can serve as the basis for simple but power search functionality.",
+      "id": "search-and-javascript-array-methods"
+    },
+    {
+      "title": "Workshopping Interface designs I",
+      "date": "2022-11-10",
+      "description": "Paper prototyping a documentary workflow",
+      "id": "workshopping-interface-designs-i"
+    },
+    {
+      "title": "Planning projects",
+      "date": "2022-11-17",
+      "description": "Discussions of small projects",
+      "id": "planning-projects"
+    },
+    {
+      "title": "Presentations",
+      "date": "2022-12-01",
+      "description": "",
+      "id": "presentations"
+    },
+    {
+      "title": "Presentations",
+      "date": "2022-12-08",
+      "description": "",
+      "id": "presentations"
+    }
+  ]
+}

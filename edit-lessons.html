@@ -12,13 +12,14 @@
   </main>
   <script type="module">
 
-if(!localStorage.lessons){
+if(!localStorage.doclingLand){
   let response = await fetch('lessons.json')
-  let lessons = await response.json()
-  localStorage.lessons = JSON.stringify(lessons)
+  let {metadata,lessons} = await response.json()
+
+  localStorage.doclingLand = JSON.stringify({metadata,lessons})
 }
 
-let lessons = JSON.parse(localStorage.lessons)
+let {metadata,lessons} = JSON.parse(localStorage.doclingLand)
 
 let generateId = title => title
   .toLowerCase()
