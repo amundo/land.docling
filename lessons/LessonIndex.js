@@ -68,9 +68,10 @@ export class LessonIndex extends HTMLElement {
   }
 
   render(){
+    console.log(this.data)
     this.querySelector('main').innerHTML = `
       ${
-        this.data.map(lesson => {
+        this.data.lessons.map(lesson => {
           let div = this.renderLesson(lesson)
           return div.outerHTML
         })
